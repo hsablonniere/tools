@@ -54,3 +54,4 @@ tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program sto
 tiling-shell,GNOME,https://extensions.gnome.org/extension/7065/tiling-shell/,gnome-extension,Tiling window manager extension for GNOME bringing keyboard-driven window management and layouts.,,2025-08-11
 usbutils,Utilities,https://github.com/gregkh/usbutils,yay,USB utilities for Linux including lsusb to query USB devices connected to the system.,,2025-08-11
 uv,Development,https://github.com/astral-sh/uv,yay,Extremely fast Python package installer and resolver written in Rust replacing pip and pip-tools.,,2025-08-11
+vim,Development,https://github.com/vim/vim,yay,Highly configurable text editor built to enable efficient text editing with modal interface.,,2025-08-11
