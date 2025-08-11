@@ -30,3 +30,4 @@ gparted,Utilities,https://gparted.org/,yay,GNOME Partition Editor for graphicall
 gpg,System & Core,https://gnupg.org/,pacman,Complete free implementation of OpenPGP standard for encrypting signing data with key management.,pre-installed. installed via pacman as gnupg,2025-08-11
 graphicsmagick,Media,https://github.com/GraphicsMagick/graphicsmagick,yay,Image processing system providing efficient tools for manipulating images in over 90 formats.,,2025-08-11
 gzip,System & Core,https://www.gnu.org/software/gzip/,pacman,File compression utility using DEFLATE algorithm reducing file sizes by up to 70-80 percent.,pre-installed,2025-08-11
+htop,System & Core,https://github.com/htop-dev/htop,pacman,Cross-platform interactive process viewer monitoring CPU memory load averages with process management.,pre-installed,2025-08-11
