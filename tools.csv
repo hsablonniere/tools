@@ -60,3 +60,4 @@ vscode,Development,https://github.com/microsoft/vscode,yay,Free open-source code
 wget,System & Core,https://www.gnu.org/software/wget/,yay,Command-line utility for downloading files from the web supporting HTTP HTTPS and FTP protocols.,,2025-08-11
 window-key-switcher,GNOME,https://extensions.gnome.org/extension/6623/window-key-switcher/,gnome-extension,Switch between windows using keyboard shortcuts with visual overlay showing available windows.,,2025-08-11
 yay,System & Core,https://github.com/Jguer/yay,yay,AUR helper written in Go providing pacman-like syntax for installing packages from Arch User Repository.,,2025-08-11
+zoxide,Shell & Terminal,https://github.com/ajeetdsouza/zoxide,yay,Smarter cd command learning frequently visited directories with fuzzy matching and minimal typing.,,2025-08-11
