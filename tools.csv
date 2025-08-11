@@ -21,3 +21,4 @@ fzf,Shell & Terminal,https://github.com/junegunn/fzf,yay,General-purpose interac
 gh,Development,https://github.com/cli/cli,yay,GitHub CLI bringing pull requests issues and repository management directly into your terminal alongside git.,installed via yay as github-cli,2025-08-11
 ghostty,Shell & Terminal,https://github.com/ghostty-org/ghostty,yay,Fast feature-rich native cross-platform terminal emulator with multi-window tabbing and splits.,,2025-08-11
 gimp,Media,https://www.gimp.org/,yay,Cross-platform image editor providing free and open-source sophisticated image manipulation capabilities.,,2025-08-11
+git,Development,https://github.com/git/git,yay,Free and open source distributed version control system designed for projects of any size with speed and efficiency.,,2025-08-11
