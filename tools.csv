@@ -13,3 +13,4 @@ deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript run
 emoj,Utilities,https://github.com/sindresorhus/emoj,npm,Find relevant emoji from text on command-line using local database without internet connection.,,2025-08-11
 epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOME browser with integrated privacy protections including ad blocker and tracking prevention.,pre-installed,2025-08-11
 evince,Utilities,https://apps.gnome.org/Evince/,yay,GNOME document viewer for PDF PostScript and other document formats with search and annotations.,,2025-08-11
+extension-manager,Utilities,https://github.com/mjakeman/extension-manager,yay,Utility for browsing and installing GNOME Shell Extensions directly from extensions.gnome.org.,,2025-08-11
