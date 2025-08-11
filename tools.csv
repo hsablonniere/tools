@@ -1,3 +1,4 @@
 name,category,official_link,install_method,description,comment,install_date
 1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
 1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,yay,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
+@clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,,2025-08-11
