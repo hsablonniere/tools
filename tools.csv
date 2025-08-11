@@ -44,3 +44,4 @@ opencode,AI Tools,https://github.com/opencode-ai/opencode,yay,Powerful AI coding
 polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Authorization framework providing API for privileged programs to verify unprivileged user requests.,required for 1password-cli,2025-08-11
 poppler,Text & Data Processing,https://poppler.freedesktop.org/,yay,PDF rendering library for converting and displaying PDF files with tools for manipulation.,,2025-08-11
 restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure efficient backup program with encryption deduplication and multiple storage backends.,TODO config,2025-08-11
+ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively searches directories for regex patterns respecting gitignore with Unicode and compressed files.,,2025-08-11
