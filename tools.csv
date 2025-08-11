@@ -25,3 +25,4 @@ git,Development,https://github.com/git/git,yay,Free and open source distributed 
 git-interactive-rebase-tool,Development,https://github.com/MitMaro/git-interactive-rebase-tool,yay,Native cross-platform terminal-based sequence editor for interactive rebase with visual selection.,installed via yay as git-interactive-rebase-tool-bin,2025-08-11
 gjs,Development,https://gitlab.gnome.org/GNOME/gjs,yay,GNOME JavaScript runtime built on SpiderMonkey powering GNOME Shell and many GNOME applications.,,2025-08-11
 glab,Development,https://gitlab.com/gitlab-org/cli,yay,Open source GitLab CLI tool bringing issues merge requests and pipelines to your terminal.,,2025-08-11
+go,Development,https://go.dev/,yay,Open-source programming language by Google with fast compilation concurrency support and garbage collection.,,2025-08-11
