@@ -45,3 +45,4 @@ polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Au
 poppler,Text & Data Processing,https://poppler.freedesktop.org/,yay,PDF rendering library for converting and displaying PDF files with tools for manipulation.,,2025-08-11
 restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure efficient backup program with encryption deduplication and multiple storage backends.,TODO config,2025-08-11
 ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively searches directories for regex patterns respecting gitignore with Unicode and compressed files.,,2025-08-11
+rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization using delta-transfer algorithm to minimize network usage moving only changed portions.,,2025-08-11
