@@ -52,3 +52,4 @@ starship,Shell & Terminal,https://github.com/starship/starship,yay,Minimal blazi
 system-monitor,GNOME,https://extensions.gnome.org/extension/120/system-monitor/,gnome-extension,Display system information in GNOME Shell status bar like CPU memory swap network and disk usage.,,2025-08-11
 tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program storing multiple files in single archive preserving permissions dates and directories.,pre-installed,2025-08-11
 tiling-shell,GNOME,https://extensions.gnome.org/extension/7065/tiling-shell/,gnome-extension,Tiling window manager extension for GNOME bringing keyboard-driven window management and layouts.,,2025-08-11
+usbutils,Utilities,https://github.com/gregkh/usbutils,yay,USB utilities for Linux including lsusb to query USB devices connected to the system.,,2025-08-11
