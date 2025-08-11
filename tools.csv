@@ -27,3 +27,4 @@ gjs,Development,https://gitlab.gnome.org/GNOME/gjs,yay,GNOME JavaScript runtime 
 glab,Development,https://gitlab.com/gitlab-org/cli,yay,Open source GitLab CLI tool bringing issues merge requests and pipelines to your terminal.,,2025-08-11
 go,Development,https://go.dev/,yay,Open-source programming language by Google with fast compilation concurrency support and garbage collection.,,2025-08-11
 gparted,Utilities,https://gparted.org/,yay,GNOME Partition Editor for graphically managing disk partitions with resize copy move operations.,,2025-08-11
+gpg,System & Core,https://gnupg.org/,pacman,Complete free implementation of OpenPGP standard for encrypting signing data with key management.,pre-installed. installed via pacman as gnupg,2025-08-11
