@@ -51,3 +51,4 @@ snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for
 starship,Shell & Terminal,https://github.com/starship/starship,yay,Minimal blazing-fast cross-shell prompt in Rust displaying relevant context information intelligently.,,2025-08-11
 system-monitor,GNOME,https://extensions.gnome.org/extension/120/system-monitor/,gnome-extension,Display system information in GNOME Shell status bar like CPU memory swap network and disk usage.,,2025-08-11
 tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program storing multiple files in single archive preserving permissions dates and directories.,pre-installed,2025-08-11
+tiling-shell,GNOME,https://extensions.gnome.org/extension/7065/tiling-shell/,gnome-extension,Tiling window manager extension for GNOME bringing keyboard-driven window management and layouts.,,2025-08-11
