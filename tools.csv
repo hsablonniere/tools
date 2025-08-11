@@ -36,3 +36,4 @@ imagemagick,Media,https://github.com/ImageMagick/ImageMagick,yay,Free open-sourc
 inkscape,Media,https://gitlab.com/inkscape/inkscape,yay,Powerful free design tool for creating vector graphics for illustrators designers and web graphics.,gnu-free-fonts,2025-08-11
 jless,Text & Data Processing,https://github.com/PaulJuliusMartinez/jless,yay,Command-line JSON viewer for reading exploring and searching JSON data with syntax highlighting.,,2025-08-11
 jq,Text & Data Processing,https://github.com/jqlang/jq,yay,Lightweight command-line JSON processor that slices filters maps and transforms structured data.,,2025-08-11
+loupe,Media,https://apps.gnome.org/Loupe/,yay,GNOME image viewer with fast rendering GPU acceleration and gesture support for viewing photos.,,2025-08-11
