@@ -34,3 +34,4 @@ htop,System & Core,https://github.com/htop-dev/htop,pacman,Cross-platform intera
 hurl,Development,https://github.com/Orange-OpenSource/hurl,yay,Command line tool running HTTP requests defined in plain text with support for chaining and testing.,TODO test,2025-08-11
 imagemagick,Media,https://github.com/ImageMagick/ImageMagick,yay,Free open-source suite for editing and manipulating digital images supporting over 200 file formats.,,2025-08-11
 inkscape,Media,https://gitlab.com/inkscape/inkscape,yay,Powerful free design tool for creating vector graphics for illustrators designers and web graphics.,gnu-free-fonts,2025-08-11
+jless,Text & Data Processing,https://github.com/PaulJuliusMartinez/jless,yay,Command-line JSON viewer for reading exploring and searching JSON data with syntax highlighting.,,2025-08-11
