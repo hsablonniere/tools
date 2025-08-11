@@ -24,3 +24,4 @@ gimp,Media,https://www.gimp.org/,yay,Cross-platform image editor providing free 
 git,Development,https://github.com/git/git,yay,Free and open source distributed version control system designed for projects of any size with speed and efficiency.,,2025-08-11
 git-interactive-rebase-tool,Development,https://github.com/MitMaro/git-interactive-rebase-tool,yay,Native cross-platform terminal-based sequence editor for interactive rebase with visual selection.,installed via yay as git-interactive-rebase-tool-bin,2025-08-11
 gjs,Development,https://gitlab.gnome.org/GNOME/gjs,yay,GNOME JavaScript runtime built on SpiderMonkey powering GNOME Shell and many GNOME applications.,,2025-08-11
+glab,Development,https://gitlab.com/gitlab-org/cli,yay,Open source GitLab CLI tool bringing issues merge requests and pipelines to your terminal.,,2025-08-11
