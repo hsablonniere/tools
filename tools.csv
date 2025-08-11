@@ -49,3 +49,4 @@ rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization u
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
 starship,Shell & Terminal,https://github.com/starship/starship,yay,Minimal blazing-fast cross-shell prompt in Rust displaying relevant context information intelligently.,,2025-08-11
+system-monitor,GNOME,https://extensions.gnome.org/extension/120/system-monitor/,gnome-extension,Display system information in GNOME Shell status bar like CPU memory swap network and disk usage.,,2025-08-11
