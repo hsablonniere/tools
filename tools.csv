@@ -15,3 +15,4 @@ epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOM
 evince,Utilities,https://apps.gnome.org/Evince/,yay,GNOME document viewer for PDF PostScript and other document formats with search and annotations.,,2025-08-11
 extension-manager,Utilities,https://github.com/mjakeman/extension-manager,yay,Utility for browsing and installing GNOME Shell Extensions directly from extensions.gnome.org.,,2025-08-11
 ffmpeg,Media,https://github.com/FFmpeg/FFmpeg,yay,Complete cross-platform solution to record convert and stream audio and video between formats.,,2025-08-11
+fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-friendly shell with syntax highlighting autosuggest-as-you-type and automatic tab completions.,TODO config,2025-08-11
