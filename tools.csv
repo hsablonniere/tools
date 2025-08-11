@@ -19,3 +19,4 @@ fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-fr
 fprint,System & Core,https://fprint.freedesktop.org/,yay,Linux fingerprint reader support providing libfprint library and fprintd daemon for unified authentication.,installed via yay as fprintd,2025-08-11
 fzf,Shell & Terminal,https://github.com/junegunn/fzf,yay,General-purpose interactive command-line fuzzy finder for files history processes and git commits.,,2025-08-11
 gh,Development,https://github.com/cli/cli,yay,GitHub CLI bringing pull requests issues and repository management directly into your terminal alongside git.,installed via yay as github-cli,2025-08-11
+ghostty,Shell & Terminal,https://github.com/ghostty-org/ghostty,yay,Fast feature-rich native cross-platform terminal emulator with multi-window tabbing and splits.,,2025-08-11
