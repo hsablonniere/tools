@@ -17,3 +17,4 @@ extension-manager,Utilities,https://github.com/mjakeman/extension-manager,yay,Ut
 ffmpeg,Media,https://github.com/FFmpeg/FFmpeg,yay,Complete cross-platform solution to record convert and stream audio and video between formats.,,2025-08-11
 fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-friendly shell with syntax highlighting autosuggest-as-you-type and automatic tab completions.,TODO config,2025-08-11
 fprint,System & Core,https://fprint.freedesktop.org/,yay,Linux fingerprint reader support providing libfprint library and fprintd daemon for unified authentication.,installed via yay as fprintd,2025-08-11
+fzf,Shell & Terminal,https://github.com/junegunn/fzf,yay,General-purpose interactive command-line fuzzy finder for files history processes and git commits.,"ctrl+T => search file or dirs, ctrl+R => atuin, ** auto complete, kill, git branch. TODO config",2025-08-11
