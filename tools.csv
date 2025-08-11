@@ -5,3 +5,4 @@ name,category,official_link,install_method,description,comment,install_date
 baobab,System & Core,https://apps.gnome.org/Baobab/,pacman,GNOME disk usage analyzer scanning folders and devices presenting findings through tree and graphical views.,pre-installed,2025-08-11
 bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with syntax highlighting and Git integration displaying file contents with beautiful coloring.,,2025-08-11
 brotli,System & Core,https://github.com/google/brotli,pacman,General-purpose lossless compression combining LZ77 variant and Huffman coding with better ratios than alternatives.,pre-installed,2025-08-11
+bun,Development,https://github.com/oven-sh/bun,yay,Fast all-in-one JavaScript toolkit combining runtime package manager bundler and test runner.,installed via yay as bun-bin,2025-08-11
