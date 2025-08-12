@@ -62,6 +62,7 @@ restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure ef
 resvg,Media,https://github.com/RazrFalcon/resvg,yay,SVG rendering library available as Rust library C library or CLI tool for static vector graphics.,,2025-08-12
 ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively searches directories for regex patterns respecting gitignore with Unicode and compressed files.,,2025-08-11
 rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization using delta-transfer algorithm to minimize network usage moving only changed portions.,,2025-08-11
+showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,TODO config,2025-08-12
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
 starship,Shell & Terminal,https://github.com/starship/starship,yay,Minimal blazing-fast cross-shell prompt in Rust displaying relevant context information intelligently.,,2025-08-11
