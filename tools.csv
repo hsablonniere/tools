@@ -11,6 +11,7 @@ bun,Development,https://github.com/oven-sh/bun,yay,Fast all-in-one JavaScript to
 chromium,Web Browser,https://www.chromium.org/,yay,Open-source browser project building a safer faster and more stable web experience providing code for Chrome.,,2025-08-11
 claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,,2025-08-11
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
+ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
 deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript runtime for the modern web with built-in TypeScript support security and tooling.,,2025-08-11
 emoj,Utilities,https://github.com/sindresorhus/emoj,npm,Find relevant emoji from text on command-line using local database without internet connection.,,2025-08-11
