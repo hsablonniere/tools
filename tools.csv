@@ -55,6 +55,7 @@ nautilus,File Management,https://apps.gnome.org/Nautilus/,pacman,GNOME default f
 npm-check,Development,https://github.com/dylang/npm-check,npm,Identifies outdated incorrect and unused dependencies in Node.js projects with interactive update.,,2025-08-11
 obs-studio,Media,https://github.com/obsproject/obs-studio,yay,Free open source software for video recording and live streaming capturing and mixing across platforms.,TODO config,2025-08-11
 opencode,AI Tools,https://github.com/opencode-ai/opencode,yay,Powerful AI coding agent built for the terminal with support for multiple AI providers and code tool integration.,installed via yay as opencode-bin,2025-08-11
+perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application for reading and writing meta information in files including camera maker notes.,,2025-08-12
 polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Authorization framework providing API for privileged programs to verify unprivileged user requests.,required for 1password-cli,2025-08-11
 poppler,Text & Data Processing,https://poppler.freedesktop.org/,yay,PDF rendering library for converting and displaying PDF files with tools for manipulation.,,2025-08-11
 restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure efficient backup program with encryption deduplication and multiple storage backends.,TODO config,2025-08-11
