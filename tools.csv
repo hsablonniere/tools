@@ -49,6 +49,7 @@ inkscape,Media,https://gitlab.com/inkscape/inkscape,yay,Powerful free design too
 jless,Text & Data Processing,https://github.com/PaulJuliusMartinez/jless,yay,Command-line JSON viewer for reading exploring and searching JSON data with syntax highlighting.,,2025-08-11
 jq,Text & Data Processing,https://github.com/jqlang/jq,yay,Lightweight command-line JSON processor that slices filters maps and transforms structured data.,,2025-08-11
 lazydocker,Development,https://github.com/jesseduffield/lazydocker,yay,Simple terminal UI for both Docker and Docker Compose written in Go.,installed via yay as lazydocker-bin,2025-08-12
+lazygit,Development,https://github.com/jesseduffield/lazygit,yay,Simple terminal UI for git commands with an intuitive keyboard-driven interface.,,2025-08-12
 loupe,Media,https://apps.gnome.org/Loupe/,yay,GNOME image viewer with fast rendering GPU acceleration and gesture support for viewing photos.,,2025-08-11
 nautilus,File Management,https://apps.gnome.org/Nautilus/,pacman,GNOME default file manager for simple integrated file management browsing and organizing files.,pre-installed. Was a big thunar user but went full gnome. Not sure I need it now I have yazi,2025-08-11
 npm-check,Development,https://github.com/dylang/npm-check,npm,Identifies outdated incorrect and unused dependencies in Node.js projects with interactive update.,,2025-08-11
