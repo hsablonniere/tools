@@ -14,6 +14,7 @@ clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Officia
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
 deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript runtime for the modern web with built-in TypeScript support security and tooling.,,2025-08-11
+docker,Development,https://github.com/docker/docker-ce,yay,Platform enabling developers to build share and run containerized applications consistently across environments.,,2025-08-12
 emoj,Utilities,https://github.com/sindresorhus/emoj,npm,Find relevant emoji from text on command-line using local database without internet connection.,,2025-08-11
 epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOME browser with integrated privacy protections including ad blocker and tracking prevention.,pre-installed,2025-08-11
 evince,Utilities,https://apps.gnome.org/Evince/,yay,GNOME document viewer for PDF PostScript and other document formats with search and annotations.,,2025-08-11
