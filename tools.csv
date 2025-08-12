@@ -21,7 +21,8 @@ emoj,Utilities,https://github.com/sindresorhus/emoj,npm,Find relevant emoji from
 epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOME browser with integrated privacy protections including ad blocker and tracking prevention.,pre-installed,2025-08-11
 evince,Utilities,https://apps.gnome.org/Evince/,yay,GNOME document viewer for PDF PostScript and other document formats with search and annotations.,,2025-08-11
 extension-manager,Utilities,https://github.com/mjakeman/extension-manager,yay,Utility for browsing and installing GNOME Shell Extensions directly from extensions.gnome.org.,,2025-08-11
-eza,File Management,https://github.com/eza-community/eza,yay,Modern ls replacement with colors symlinks Git status and extended attributes in lightweight single binary.,TODO config alias,2025-08-12
+eza,File Management,https://github.com/eza-community/eza,yay,Modern ls replacement with colors symlinks Git status and extended attributes in lightweight single binary.,,2025-08-12
+fd,File Management,https://github.com/sharkdp/fd,yay,Simple fast find alternative with intuitive syntax regex patterns parallel traversal and gitignore filtering.,,2025-08-12
 ffmpeg,Media,https://github.com/FFmpeg/FFmpeg,yay,Complete cross-platform solution to record convert and stream audio and video between formats.,,2025-08-11
 fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-friendly shell with syntax highlighting autosuggest-as-you-type and automatic tab completions.,TODO config,2025-08-11
 fprint,System & Core,https://fprint.freedesktop.org/,yay,Linux fingerprint reader support providing libfprint library and fprintd daemon for unified authentication.,installed via yay as fprintd,2025-08-11
