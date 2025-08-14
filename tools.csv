@@ -13,6 +13,7 @@ claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
+dconf-editor,Utilities,https://gitlab.gnome.org/GNOME/dconf-editor,yay,Tool for direct editing of dconf configuration database and GNOME applications internal settings.,,2025-08-14
 deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript runtime for the modern web with built-in TypeScript support security and tooling.,,2025-08-11
 docker,Development,https://github.com/docker/docker-ce,yay,Platform enabling developers to build share and run containerized applications consistently across environments.,,2025-08-12
 docker-buildx,Development,https://github.com/docker/buildx,yay,Docker CLI plugin for extended build capabilities with BuildKit.,,2025-08-12
