@@ -79,6 +79,7 @@ system-monitor,GNOME,https://extensions.gnome.org/extension/120/system-monitor/,
 tabiew,Text & Data Processing,https://github.com/shshemi/tabiew,yay,Lightweight TUI to view and query tabular data files like CSV TSV and Parquet with interactive browsing.,,2025-08-12
 tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program storing multiple files in single archive preserving permissions dates and directories.,pre-installed,2025-08-11
 tiling-shell,GNOME,https://extensions.gnome.org/extension/7065/tiling-shell/,gnome-extension,Tiling window manager extension for GNOME bringing keyboard-driven window management and layouts.,,2025-08-11
+trash-cli,File Management,https://github.com/andreafrancia/trash-cli,yay,Command-line interface to FreeDesktop.org trash allowing safe file deletion with recovery option.,,2025-08-16
 upscayl,Media,https://github.com/upscayl/upscayl,yay,Free open-source AI application enlarging and enhancing low-resolution images without quality loss.,installed via yay as upscayl-bin,2025-08-12
 usbutils,Utilities,https://github.com/gregkh/usbutils,yay,USB utilities for Linux including lsusb to query USB devices connected to the system.,,2025-08-11
 uv,Development,https://github.com/astral-sh/uv,yay,Extremely fast Python package installer and resolver written in Rust replacing pip and pip-tools.,,2025-08-11
