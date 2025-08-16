@@ -18,6 +18,7 @@ deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript run
 docker,Development,https://github.com/docker/docker-ce,yay,Platform enabling developers to build share and run containerized applications consistently across environments.,,2025-08-12
 docker-buildx,Development,https://github.com/docker/buildx,yay,Docker CLI plugin for extended build capabilities with BuildKit.,,2025-08-12
 dog,Networking & Security,https://github.com/ogham/dog,yay,Command-line DNS client with colorful output supporting DNS-over-TLS and DNS-over-HTTPS in Rust.,,2025-08-12
+duf,Utilities,https://github.com/muesli/duf,yay,Disk Usage/Free Utility providing colorful alternative to df with sorting filtering and JSON output.,,2025-08-16
 emoj,Utilities,https://github.com/sindresorhus/emoj,npm,Find relevant emoji from text on command-line using local database without internet connection.,,2025-08-11
 epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOME browser with integrated privacy protections including ad blocker and tracking prevention.,pre-installed,2025-08-11
 evince,Utilities,https://apps.gnome.org/Evince/,yay,GNOME document viewer for PDF PostScript and other document formats with search and annotations.,,2025-08-11
