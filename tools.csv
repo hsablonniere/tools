@@ -55,6 +55,7 @@ lazydocker,Development,https://github.com/jesseduffield/lazydocker,yay,Simple te
 lazygit,Development,https://github.com/jesseduffield/lazygit,yay,Simple terminal UI for git commands with an intuitive keyboard-driven interface.,,2025-08-12
 loupe,Media,https://apps.gnome.org/Loupe/,yay,GNOME image viewer with fast rendering GPU acceleration and gesture support for viewing photos.,,2025-08-11
 moreutils,Text & Data Processing,https://joeyh.name/code/moreutils/,yay,Collection of unix tools that nobody thought to write providing sponge vidir chronic and more.,ts command is amazing!,2025-08-16
+mtr,Networking & Security,https://github.com/traviscross/mtr,yay,Network diagnostic combining traceroute and ping investigating connections with running statistics.,,2025-08-16
 nautilus,File Management,https://apps.gnome.org/Nautilus/,pacman,GNOME default file manager for simple integrated file management browsing and organizing files.,pre-installed. Was a big thunar user but went full gnome. Not sure I need it now I have yazi,2025-08-11
 npm-check,Development,https://github.com/dylang/npm-check,npm,Identifies outdated incorrect and unused dependencies in Node.js projects with interactive update.,,2025-08-11
 obs-studio,Media,https://github.com/obsproject/obs-studio,yay,Free open source software for video recording and live streaming capturing and mixing across platforms.,TODO config,2025-08-11
