@@ -78,6 +78,7 @@ simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME appli
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
 starship,Shell & Terminal,https://github.com/starship/starship,yay,Minimal blazing-fast cross-shell prompt in Rust displaying relevant context information intelligently.,,2025-08-11
 stow,File Management,https://www.gnu.org/software/stow/,yay,Symlink farm manager making separate packages appear installed in same place useful for dotfiles.,,2025-08-14
+stu,Utilities,https://github.com/lusingander/stu,yay,TUI application for AWS S3 to browse and manage S3 buckets and objects from the terminal.,TODO test/config,2025-08-31
 system-monitor,GNOME,https://extensions.gnome.org/extension/120/system-monitor/,gnome-extension,Display system information in GNOME Shell status bar like CPU memory swap network and disk usage.,,2025-08-11
 tabiew,Text & Data Processing,https://github.com/shshemi/tabiew,yay,Lightweight TUI to view and query tabular data files like CSV TSV and Parquet with interactive browsing.,,2025-08-12
 tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program storing multiple files in single archive preserving permissions dates and directories.,pre-installed,2025-08-11
