@@ -26,7 +26,8 @@ extension-manager,Utilities,https://github.com/mjakeman/extension-manager,yay,Ut
 eza,File Management,https://github.com/eza-community/eza,yay,Modern ls replacement with colors symlinks Git status and extended attributes in lightweight single binary.,,2025-08-12
 fd,File Management,https://github.com/sharkdp/fd,yay,Simple fast find alternative with intuitive syntax regex patterns parallel traversal and gitignore filtering.,,2025-08-12
 ffmpeg,Media,https://github.com/FFmpeg/FFmpeg,yay,Complete cross-platform solution to record convert and stream audio and video between formats.,,2025-08-11
-fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-friendly shell with syntax highlighting autosuggest-as-you-type and automatic tab completions.,TODO config,2025-08-11
+file-roller,File Management,https://gitlab.gnome.org/GNOME/file-roller,yay,Archive manager for GNOME desktop enabling users to manage compressed files and archives.,,2025-09-09
+fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-friendly shell with syntax highlighting autosuggest-as-you-type and automatic tab completions.,,2025-08-11
 fprint,System & Core,https://fprint.freedesktop.org/,yay,Linux fingerprint reader support providing libfprint library and fprintd daemon for unified authentication.,installed via yay as fprintd,2025-08-11
 fzf,Shell & Terminal,https://github.com/junegunn/fzf,yay,General-purpose interactive command-line fuzzy finder for files history processes and git commits.,,2025-08-11
 gh,Development,https://github.com/cli/cli,yay,GitHub CLI bringing pull requests issues and repository management directly into your terminal alongside git.,installed via yay as github-cli,2025-08-11
