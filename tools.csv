@@ -11,6 +11,7 @@ bun,Development,https://github.com/oven-sh/bun,yay,Fast all-in-one JavaScript to
 chromium,Web Browser,https://www.chromium.org/,yay,Open-source browser project building a safer faster and more stable web experience providing code for Chrome.,,2025-08-11
 claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,,2025-08-11
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
+cloc,Text & Data Processing,https://github.com/AlDanial/cloc,yay,Counts blank lines comment lines and physical lines of source code in many programming languages.,,2025-09-19
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
 dconf-editor,Utilities,https://gitlab.gnome.org/GNOME/dconf-editor,yay,Tool for direct editing of dconf configuration database and GNOME applications internal settings.,,2025-08-14
