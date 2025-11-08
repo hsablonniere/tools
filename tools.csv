@@ -6,6 +6,7 @@ name,category,official_link,install_method,description,comment,install_date
 atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
 baobab,System & Core,https://apps.gnome.org/Baobab/,pacman,GNOME disk usage analyzer scanning folders and devices presenting findings through tree and graphical views.,pre-installed,2025-08-11
 bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with syntax highlighting and Git integration displaying file contents with beautiful coloring.,,2025-08-11
+bluetui,Utilities,https://github.com/pythops/bluetui,yay,TUI for managing Bluetooth on Linux with customizable keybindings for connecting and managing devices.,,2025-11-08
 brotli,System & Core,https://github.com/google/brotli,pacman,General-purpose lossless compression combining LZ77 variant and Huffman coding with better ratios than alternatives.,pre-installed,2025-08-11
 bun,Development,https://github.com/oven-sh/bun,yay,Fast all-in-one JavaScript toolkit combining runtime package manager bundler and test runner.,installed via yay as bun-bin,2025-08-11
 cargo-watch,Development,https://github.com/watchexec/cargo-watch,cargo,Watches over Cargo project source and runs commands when files change for Rust development workflow.,,2025-11-07
