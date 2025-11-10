@@ -50,6 +50,7 @@ go,Development,https://go.dev/,yay,Open-source programming language by Google wi
 gparted,Utilities,https://gparted.org/,yay,GNOME Partition Editor for graphically managing disk partitions with resize copy move operations.,,2025-08-11
 gpg,System & Core,https://gnupg.org/,pacman,Complete free implementation of OpenPGP standard for encrypting signing data with key management.,pre-installed. installed via pacman as gnupg,2025-08-11
 graphicsmagick,Media,https://github.com/GraphicsMagick/graphicsmagick,yay,Image processing system providing efficient tools for manipulating images in over 90 formats.,,2025-08-11
+graphviz,Development,https://github.com/graphp/graphviz,yay,Graph visualization software for representing structural information as diagrams of abstract graphs.,,2025-11-10
 gromit-mpx,Utilities,https://github.com/bk138/gromit-mpx,yay,On-screen annotation tool for X11 and Wayland enabling drawing and annotations over your screen.,,2025-08-13
 gzip,System & Core,https://www.gnu.org/software/gzip/,pacman,File compression utility using DEFLATE algorithm reducing file sizes by up to 70-80 percent.,pre-installed,2025-08-11
 harlequin,Development,https://github.com/tconbeer/harlequin,uvx,The SQL IDE for your terminal - portable database client supporting DuckDB SQLite and other databases.,,2025-10-29
