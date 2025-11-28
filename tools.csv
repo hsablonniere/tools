@@ -89,6 +89,7 @@ showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys 
 signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powerful secure messenger with state-of-the-art end-to-end encryption from independent nonprofit.,installed via yay as signal-desktop,2025-08-12
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
+sshfs,Networking & Security,https://github.com/libfuse/sshfs,yay,Network filesystem mounting remote filesystems using SFTP over SSH with no server-side configuration.,,2025-11-28
 starship,Shell & Terminal,https://github.com/starship/starship,yay,Minimal blazing-fast cross-shell prompt in Rust displaying relevant context information intelligently.,,2025-08-11
 stow,File Management,https://www.gnu.org/software/stow/,yay,Symlink farm manager making separate packages appear installed in same place useful for dotfiles.,,2025-08-14
 stu,Utilities,https://github.com/lusingander/stu,yay,TUI application for AWS S3 to browse and manage S3 buckets and objects from the terminal.,,2025-08-31
