@@ -80,6 +80,7 @@ perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application
 polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Authorization framework providing API for privileged programs to verify unprivileged user requests.,required for 1password-cli,2025-08-11
 poppler,Text & Data Processing,https://poppler.freedesktop.org/,yay,PDF rendering library for converting and displaying PDF files with tools for manipulation.,,2025-08-11
 procs,Utilities,https://github.com/dalance/procs,yay,Modern ps replacement in Rust with colored output keyword search tree view and Docker support.,,2025-08-16
+rclone,File Sync & Download,https://github.com/rclone/rclone,yay,Rsync for cloud storage supporting 70+ providers including Google Drive S3 Dropbox with unix-like commands.,,2025-12-01
 restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure efficient backup program with encryption deduplication and multiple storage backends.,TODO config,2025-08-11
 resvg,Media,https://github.com/RazrFalcon/resvg,yay,SVG rendering library available as Rust library C library or CLI tool for static vector graphics.,,2025-08-12
 ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively searches directories for regex patterns respecting gitignore with Unicode and compressed files.,,2025-08-11
