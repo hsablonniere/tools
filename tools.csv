@@ -85,6 +85,7 @@ restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure ef
 resvg,Media,https://github.com/RazrFalcon/resvg,yay,SVG rendering library available as Rust library C library or CLI tool for static vector graphics.,,2025-08-12
 ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively searches directories for regex patterns respecting gitignore with Unicode and compressed files.,,2025-08-11
 rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization using delta-transfer algorithm to minimize network usage moving only changed portions.,,2025-08-11
+rustup,Development,https://github.com/rust-lang/rustup,yay,Official Rust toolchain installer managing versions enabling switching between stable beta and nightly.,,2025-12-05
 s3cmd,File Sync & Download,https://github.com/s3tools/s3cmd,yay,Free command-line S3 client for Amazon S3 and compatible storage with 60+ options including encryption.,,2025-08-27
 showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,,2025-08-12
 signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powerful secure messenger with state-of-the-art end-to-end encryption from independent nonprofit.,installed via yay as signal-desktop,2025-08-12
