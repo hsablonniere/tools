@@ -115,6 +115,7 @@ xclip,Shell & Terminal,https://github.com/astrand/xclip,yay,Command-line interfa
 yay,System & Core,https://github.com/Jguer/yay,yay,AUR helper written in Go providing pacman-like syntax for installing packages from Arch User Repository.,,2025-08-11
 yazi,File Management,https://github.com/sxyazi/yazi,yay,Terminal file manager in Rust with async I/O image preview Lua plugins ripgrep fzf and Git integration.,,2025-08-12
 zen-browser,Web Browser,https://github.com/nicoth-in/zen-browser,yay,Firefox-based browser pushing productivity to new level with tranquil browsing without tracking.,installed via yay as zen-browser-bin,2025-10-29
+zigup,Development,https://github.com/andrewrk/zigup,yay,Tool to download and manage Zig compilers enabling users to switch between different versions.,installed via yay as zigup-bin,2025-12-06
 zip,File Management,https://infozip.sourceforge.net/,yay,Compressor/archiver for creating and modifying zipfiles compatible with DOS-based PKZIP.,,2025-11-22
 zoxide,Shell & Terminal,https://github.com/ajeetdsouza/zoxide,yay,Smarter cd command learning frequently visited directories with fuzzy matching and minimal typing.,,2025-08-11
 zstd,System & Core,https://github.com/facebook/zstd,pacman,Fast lossless compression algorithm targeting real-time scenarios with flexible speed-to-compression tradeoffs.,pre-installed,2025-08-11
