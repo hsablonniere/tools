@@ -68,6 +68,7 @@ lazydocker,Development,https://github.com/jesseduffield/lazydocker,yay,Simple te
 lazygit,Development,https://github.com/jesseduffield/lazygit,yay,Simple terminal UI for git commands with an intuitive keyboard-driven interface.,,2025-08-12
 loupe,Media,https://apps.gnome.org/Loupe/,yay,GNOME image viewer with fast rendering GPU acceleration and gesture support for viewing photos.,,2025-08-11
 mediainfo,Media,https://github.com/MediaArea/MediaInfo,yay,Unified display of technical and tag data for video and audio files showing format and codec details.,,2025-11-10
+mise,Development,https://github.com/jdx/mise,cargo,Polyglot tool version manager replacing asdf rtx nvm and others with fast Rust implementation.,,2025-12-08
 moreutils,Text & Data Processing,https://joeyh.name/code/moreutils/,yay,Collection of unix tools that nobody thought to write providing sponge vidir chronic and more.,ts command is amazing!,2025-08-16
 mpv,Media,https://github.com/mpv-player/mpv,yay,Free open-source media player with minimalist design supporting wide range of video and audio formats.,,2025-10-18
 mtr,Networking & Security,https://github.com/traviscross/mtr,yay,Network diagnostic combining traceroute and ping investigating connections with running statistics.,,2025-08-16
