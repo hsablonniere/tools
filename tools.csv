@@ -116,7 +116,8 @@ wasm-pack,Development,https://github.com/rustwasm/wasm-pack,cargo,Tool for build
 webstorm,Development,https://www.jetbrains.com/webstorm/,yay,JavaScript and TypeScript IDE by JetBrains with intelligent coding assistance and debugging tools.,,2025-11-26
 wget,System & Core,https://www.gnu.org/software/wget/,yay,Command-line utility for downloading files from the web supporting HTTP HTTPS and FTP protocols.,,2025-08-11
 window-key-switcher,GNOME,https://extensions.gnome.org/extension/6623/window-key-switcher/,gnome-extension,Switch between windows using keyboard shortcuts with visual overlay showing available windows.,,2025-08-11
-xclip,Shell & Terminal,https://github.com/astrand/xclip,yay,Command-line interface to X selections clipboard for X11 reading data and placing in selections.,TODO alias,2025-08-12
+worker-build,Development,https://github.com/cloudflare/workers-rs,cargo,Build tool for Cloudflare Workers written in Rust compiling to WebAssembly.,,2025-12-08
+xclip,Shell & Terminal,https://github.com/astrand/xclip,yay,Command-line interface to X selections clipboard for X11 reading data and placing in selections.,,2025-08-12
 yay,System & Core,https://github.com/Jguer/yay,yay,AUR helper written in Go providing pacman-like syntax for installing packages from Arch User Repository.,,2025-08-11
 yazi,File Management,https://github.com/sxyazi/yazi,yay,Terminal file manager in Rust with async I/O image preview Lua plugins ripgrep fzf and Git integration.,,2025-08-12
 zen-browser,Web Browser,https://github.com/nicoth-in/zen-browser,yay,Firefox-based browser pushing productivity to new level with tranquil browsing without tracking.,installed via yay as zen-browser-bin,2025-10-29
