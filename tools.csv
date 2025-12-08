@@ -112,6 +112,7 @@ uv,Development,https://github.com/astral-sh/uv,yay,Extremely fast Python package
 vim,Development,https://github.com/vim/vim,yay,Highly configurable text editor built to enable efficient text editing with modal interface.,,2025-08-11
 vlc,Media,https://github.com/videolan/vlc,yay,Free open source cross-platform multimedia player playing most files DVDs Audio CDs and streaming.,sudo pacman -S vlc $(pacman -Ssq vlc-plugin),2025-08-11
 vscode,Development,https://github.com/microsoft/vscode,yay,Free open-source code editor by Microsoft with AI-powered features and rich extension ecosystem.,installed via yay as code,2025-08-11
+wasm-pack,Development,https://github.com/rustwasm/wasm-pack,cargo,Tool for building and publishing Rust-generated WebAssembly packages to npm registry.,,2025-12-08
 webstorm,Development,https://www.jetbrains.com/webstorm/,yay,JavaScript and TypeScript IDE by JetBrains with intelligent coding assistance and debugging tools.,,2025-11-26
 wget,System & Core,https://www.gnu.org/software/wget/,yay,Command-line utility for downloading files from the web supporting HTTP HTTPS and FTP protocols.,,2025-08-11
 window-key-switcher,GNOME,https://extensions.gnome.org/extension/6623/window-key-switcher/,gnome-extension,Switch between windows using keyboard shortcuts with visual overlay showing available windows.,,2025-08-11
