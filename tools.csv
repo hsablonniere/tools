@@ -13,6 +13,7 @@ caddy,Development,https://github.com/caddyserver/caddy,yay,Web server that autom
 cargo-watch,Development,https://github.com/watchexec/cargo-watch,cargo,Watches over Cargo project source and runs commands when files change for Rust development workflow.,,2025-11-07
 cheese,Media,https://gitlab.gnome.org/GNOME/cheese,yay,GNOME application for taking photos and videos with your webcam.,,2025-10-19
 chromium,Web Browser,https://www.chromium.org/,yay,Open-source browser project building a safer faster and more stable web experience providing code for Chrome.,,2025-08-11
+clamav,Networking & Security,https://github.com/Cisco-Talos/clamav,yay,Open source antivirus engine for detecting trojans viruses and malware maintained by Cisco Talos.,,2025-12-10
 claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,,2025-08-11
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
 cloc,Text & Data Processing,https://github.com/AlDanial/cloc,yay,Counts blank lines comment lines and physical lines of source code in many programming languages.,,2025-09-19
