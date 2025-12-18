@@ -65,6 +65,7 @@ inkscape,Media,https://gitlab.com/inkscape/inkscape,yay,Powerful free design too
 jdk-openjdk,Development,https://openjdk.org/,yay,Open-source implementation of the Java Platform Standard Edition.,,2025-11-26
 jless,Text & Data Processing,https://github.com/PaulJuliusMartinez/jless,yay,Command-line JSON viewer for reading exploring and searching JSON data with syntax highlighting.,,2025-08-11
 jq,Text & Data Processing,https://github.com/jqlang/jq,yay,Lightweight command-line JSON processor that slices filters maps and transforms structured data.,,2025-08-11
+just,Development,https://github.com/casey/just,yay,Command runner in Rust with simple syntax for defining and running project-specific commands without make complexity.,,2025-12-18
 lazydocker,Development,https://github.com/jesseduffield/lazydocker,yay,Simple terminal UI for both Docker and Docker Compose written in Go.,installed via yay as lazydocker-bin,2025-08-12
 lazygit,Development,https://github.com/jesseduffield/lazygit,yay,Simple terminal UI for git commands with an intuitive keyboard-driven interface.,,2025-08-12
 loupe,Media,https://apps.gnome.org/Loupe/,yay,GNOME image viewer with fast rendering GPU acceleration and gesture support for viewing photos.,,2025-08-11
