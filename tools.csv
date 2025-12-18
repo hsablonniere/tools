@@ -130,4 +130,5 @@ zen-browser,Web Browser,https://github.com/nicoth-in/zen-browser,yay,Firefox-bas
 zigup,Development,https://github.com/andrewrk/zigup,yay,Tool to download and manage Zig compilers enabling users to switch between different versions.,installed via yay as zigup-bin,2025-12-06
 zip,File Management,https://infozip.sourceforge.net/,yay,Compressor/archiver for creating and modifying zipfiles compatible with DOS-based PKZIP.,,2025-11-22
 zoxide,Shell & Terminal,https://github.com/ajeetdsouza/zoxide,yay,Smarter cd command learning frequently visited directories with fuzzy matching and minimal typing.,,2025-08-11
+zsh,Shell & Terminal,https://www.zsh.org/,pacman,Powerful shell with improved tab completion globbing spelling correction and themeable prompts.,,2025-12-18
 zstd,System & Core,https://github.com/facebook/zstd,pacman,Fast lossless compression algorithm targeting real-time scenarios with flexible speed-to-compression tradeoffs.,pre-installed,2025-08-11
