@@ -83,6 +83,7 @@ node-static,Development,https://github.com/cloudhead/node-static,npm,Simple RFC 
 npm-check,Development,https://github.com/dylang/npm-check,npm,Identifies outdated incorrect and unused dependencies in Node.js projects with interactive update.,,2025-08-11
 obs-studio,Media,https://github.com/obsproject/obs-studio,yay,Free open source software for video recording and live streaming capturing and mixing across platforms.,,2025-08-11
 oha,Utilities,https://github.com/hatoo/oha,yay,HTTP load generator with real-time TUI animation written in Rust supporting HTTP/2 and HTTP/3.,,2025-12-08
+ollama,AI Tools,https://github.com/ollama/ollama,yay,Run large language models locally with easy model management and OpenAI-compatible API.,,2025-12-19
 opencode,AI Tools,https://github.com/opencode-ai/opencode,yay,Powerful AI coding agent built for the terminal with support for multiple AI providers and code tool integration.,installed via yay as opencode-bin,2025-08-11
 perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application for reading and writing meta information in files including camera maker notes.,,2025-08-12
 piper-tts,Media,https://github.com/rhasspy/piper,yay,Fast local neural text to speech enabling offline speech synthesis without cloud services.,installed via yay as piper-tts-bin,2025-12-10
