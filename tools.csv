@@ -9,6 +9,7 @@ bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with s
 bazelisk,Development,https://github.com/bazelbuild/bazelisk,yay,User-friendly launcher for Bazel automatically downloading and managing appropriate Bazel version per project.,,2025-12-19
 bluetui,Utilities,https://github.com/pythops/bluetui,yay,TUI for managing Bluetooth on Linux with customizable keybindings for connecting and managing devices.,,2025-11-08
 brotli,System & Core,https://github.com/google/brotli,pacman,General-purpose lossless compression combining LZ77 variant and Huffman coding with better ratios than alternatives.,pre-installed,2025-08-11
+bubblewrap,Networking & Security,https://github.com/containers/bubblewrap,yay,Low-level unprivileged sandboxing tool using kernel namespaces and seccomp used by Flatpak.,,2026-01-07
 bun,Development,https://github.com/oven-sh/bun,yay,Fast all-in-one JavaScript toolkit combining runtime package manager bundler and test runner.,installed via yay as bun-bin,2025-08-11
 caddy,Development,https://github.com/caddyserver/caddy,yay,Web server that automatically obtains and renews TLS certificates making sites secure by default.,,2025-12-07
 cargo-watch,Development,https://github.com/watchexec/cargo-watch,cargo,Watches over Cargo project source and runs commands when files change for Rust development workflow.,,2025-11-07
