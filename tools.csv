@@ -8,6 +8,7 @@ asciinema,Development,https://github.com/asciinema/asciinema,not installed,Termi
 ast-grep,Development,https://github.com/ast-grep/ast-grep,not installed,CLI tool for code structural search and rewriting using fast AST-based pattern matching with tree-sitter.,,2026-01-26
 at,Utilities,https://github.com/wking/at,yay,Command-line utility for scheduling one-time tasks to run at a specific time using atd daemon.,,2026-01-16
 atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
+autocannon,Development,https://github.com/mcollina/autocannon,not installed,Fast HTTP/1.1 benchmarking tool written in Node.js with HTTP pipelining and HTTPS support.,,2026-01-26
 baobab,System & Core,https://apps.gnome.org/Baobab/,pacman,GNOME disk usage analyzer scanning folders and devices presenting findings through tree and graphical views.,pre-installed,2025-08-11
 bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with syntax highlighting and Git integration displaying file contents with beautiful coloring.,,2025-08-11
 bazelisk,Development,https://github.com/bazelbuild/bazelisk,yay,User-friendly launcher for Bazel automatically downloading and managing appropriate Bazel version per project.,,2025-12-19
