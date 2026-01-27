@@ -74,9 +74,11 @@ The commit message should be a **fun one-liner** - NOT the tool description. Be 
 
 ## Auto-commit and push
 
-On every modification:
+**Only for `tools.csv`** (public tools):
 1. Commit with the appropriate format
 2. Push to remote automatically
+
+**For `tools-private.csv`**: Do NOT commit or push (file is gitignored)
 
 ## Existing Categories
 
