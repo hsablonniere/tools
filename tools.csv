@@ -142,3 +142,4 @@ zip,File Management,https://infozip.sourceforge.net/,yay,Compressor/archiver for
 zoxide,Shell & Terminal,https://github.com/ajeetdsouza/zoxide,yay,Smarter cd command learning frequently visited directories with fuzzy matching and minimal typing.,,2025-08-11
 zsh,Shell & Terminal,https://www.zsh.org/,pacman,Powerful shell with improved tab completion globbing spelling correction and themeable prompts.,,2025-12-18
 zstd,System & Core,https://github.com/facebook/zstd,pacman,Fast lossless compression algorithm targeting real-time scenarios with flexible speed-to-compression tradeoffs.,pre-installed,2025-08-11
+ydotool,Utilities,https://github.com/ReimuNotMoe/ydotool,pacman,Generic command-line automation tool for simulating keyboard and mouse input working on X11 and Wayland.,,2026-01-29
