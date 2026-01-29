@@ -143,3 +143,5 @@ zoxide,Shell & Terminal,https://github.com/ajeetdsouza/zoxide,yay,Smarter cd com
 zsh,Shell & Terminal,https://www.zsh.org/,pacman,Powerful shell with improved tab completion globbing spelling correction and themeable prompts.,,2025-12-18
 zstd,System & Core,https://github.com/facebook/zstd,pacman,Fast lossless compression algorithm targeting real-time scenarios with flexible speed-to-compression tradeoffs.,pre-installed,2025-08-11
 ydotool,Utilities,https://github.com/ReimuNotMoe/ydotool,pacman,Generic command-line automation tool for simulating keyboard and mouse input working on X11 and Wayland.,,2026-01-29
+dotool,Utilities,https://git.sr.ht/~geb/dotool,yay,Command to simulate keyboard and mouse input anywhere using uinput with simple syntax and no daemon required.,,2026-01-29
+tredis,Development,https://github.com/huseyinbabal/tredis,yay,Terminal UI for Redis to browse manage and query Redis data structures with interactive navigation.,,2026-01-29
