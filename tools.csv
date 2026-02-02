@@ -1,13 +1,12 @@
 name,category,official_link,install_method,description,comment,install_date
-1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
 1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,yay,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
+1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
 7zip,File Management,https://7-zip.org/,yay,File archiver with high compression ratio supporting numerous formats with AES-256 encryption.,,2025-08-12
-@clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,,2025-08-11
 agent-browser,AI Tools,https://github.com/vercel-labs/agent-browser,npm,Browser automation CLI for AI agents with Rust CLI and accessibility tree snapshots for headless browsing.,,2026-01-20
 asciinema,Development,https://github.com/asciinema/asciinema,not installed,Terminal session recorder capturing CLI sessions in lightweight text-based format with web playback.,,2026-01-26
 ast-grep,Development,https://github.com/ast-grep/ast-grep,not installed,CLI tool for code structural search and rewriting using fast AST-based pattern matching with tree-sitter.,,2026-01-26
-at,Utilities,https://github.com/wking/at,yay,Command-line utility for scheduling one-time tasks to run at a specific time using atd daemon.,,2026-01-16
 atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
+at,Utilities,https://github.com/wking/at,yay,Command-line utility for scheduling one-time tasks to run at a specific time using atd daemon.,,2026-01-16
 autocannon,Development,https://github.com/mcollina/autocannon,not installed,Fast HTTP/1.1 benchmarking tool written in Node.js with HTTP pipelining and HTTPS support.,,2026-01-26
 baobab,System & Core,https://apps.gnome.org/Baobab/,pacman,GNOME disk usage analyzer scanning folders and devices presenting findings through tree and graphical views.,pre-installed,2025-08-11
 bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with syntax highlighting and Git integration displaying file contents with beautiful coloring.,,2025-08-11
@@ -22,16 +21,18 @@ cheese,Media,https://gitlab.gnome.org/GNOME/cheese,yay,GNOME application for tak
 chromium,Web Browser,https://www.chromium.org/,yay,Open-source browser project building a safer faster and more stable web experience providing code for Chrome.,,2025-08-11
 clamav,Networking & Security,https://github.com/Cisco-Talos/clamav,yay,Open source antivirus engine for detecting trojans viruses and malware maintained by Cisco Talos.,,2025-12-10
 claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,,2025-08-11
+@clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,,2025-08-11
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
 cloc,Text & Data Processing,https://github.com/AlDanial/cloc,yay,Counts blank lines comment lines and physical lines of source code in many programming languages.,,2025-09-19
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
 dconf-editor,Utilities,https://gitlab.gnome.org/GNOME/dconf-editor,yay,Tool for direct editing of dconf configuration database and GNOME applications internal settings.,,2025-08-14
 deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript runtime for the modern web with built-in TypeScript support security and tooling.,,2025-08-11
-docker,Development,https://github.com/docker/docker-ce,yay,Platform enabling developers to build share and run containerized applications consistently across environments.,,2025-08-12
 docker-buildx,Development,https://github.com/docker/buildx,yay,Docker CLI plugin for extended build capabilities with BuildKit.,,2025-08-12
 docker-compose,Development,https://github.com/docker/compose,yay,Tool for defining and running multi-container Docker applications using a single configuration file.,,2025-11-10
+docker,Development,https://github.com/docker/docker-ce,yay,Platform enabling developers to build share and run containerized applications consistently across environments.,,2025-08-12
 dog,Networking & Security,https://github.com/ogham/dog,yay,Command-line DNS client with colorful output supporting DNS-over-TLS and DNS-over-HTTPS in Rust.,,2025-08-12
+dotool,Utilities,https://git.sr.ht/~geb/dotool,yay,Command to simulate keyboard and mouse input anywhere using uinput with simple syntax and no daemon required.,,2026-01-29
 duf,Utilities,https://github.com/muesli/duf,yay,Disk Usage/Free Utility providing colorful alternative to df with sorting filtering and JSON output.,,2025-08-16
 emoj,Utilities,https://github.com/sindresorhus/emoj,npm,Find relevant emoji from text on command-line using local database without internet connection.,,2025-08-11
 epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOME browser with integrated privacy protections including ad blocker and tracking prevention.,pre-installed,2025-08-11
@@ -48,14 +49,14 @@ fzf,Shell & Terminal,https://github.com/junegunn/fzf,yay,General-purpose interac
 gh,Development,https://github.com/cli/cli,yay,GitHub CLI bringing pull requests issues and repository management directly into your terminal alongside git.,installed via yay as github-cli,2025-08-11
 ghostty,Shell & Terminal,https://github.com/ghostty-org/ghostty,yay,Fast feature-rich native cross-platform terminal emulator with multi-window tabbing and splits.,,2025-08-11
 gimp,Media,https://www.gimp.org/,yay,Cross-platform image editor providing free and open-source sophisticated image manipulation capabilities.,,2025-08-11
-git,Development,https://github.com/git/git,yay,Free and open source distributed version control system designed for projects of any size with speed and efficiency.,,2025-08-11
-gmailctl,Utilities,https://github.com/mbrt/gmailctl,yay,Declarative configuration for Gmail filters using Jsonnet with automatic updates via Gmail API.,,2026-01-27
 git-absorb,Development,https://github.com/tummychow/git-absorb,yay,Automatically maps staged changes to their corresponding commits enabling easy application of review feedback.,,2025-08-12
+git,Development,https://github.com/git/git,yay,Free and open source distributed version control system designed for projects of any size with speed and efficiency.,,2025-08-11
 git-interactive-rebase-tool,Development,https://github.com/MitMaro/git-interactive-rebase-tool,yay,Native cross-platform terminal-based sequence editor for interactive rebase with visual selection.,installed via yay as git-interactive-rebase-tool-bin,2025-08-11
 git-sizer,Development,https://github.com/github/git-sizer,yay,Computes size metrics for Git repositories flagging issues that might cause problems or inconvenience.,,2025-08-12
 gjs,Development,https://gitlab.gnome.org/GNOME/gjs,yay,GNOME JavaScript runtime built on SpiderMonkey powering GNOME Shell and many GNOME applications.,,2025-08-11
 glab,Development,https://gitlab.com/gitlab-org/cli,yay,Open source GitLab CLI tool bringing issues merge requests and pipelines to your terminal.,,2025-08-11
 glow,Text & Data Processing,https://github.com/charmbracelet/glow,yay,Terminal-based markdown renderer displaying formatted documents directly in CLI with TUI and CLI modes.,,2025-08-12
+gmailctl,Utilities,https://github.com/mbrt/gmailctl,yay,Declarative configuration for Gmail filters using Jsonnet with automatic updates via Gmail API.,,2026-01-27
 go,Development,https://go.dev/,yay,Open-source programming language by Google with fast compilation concurrency support and garbage collection.,,2025-08-11
 gparted,Utilities,https://gparted.org/,yay,GNOME Partition Editor for graphically managing disk partitions with resize copy move operations.,,2025-08-11
 gpg,System & Core,https://gnupg.org/,pacman,Complete free implementation of OpenPGP standard for encrypting signing data with key management.,pre-installed. installed via pacman as gnupg,2025-08-11
@@ -120,6 +121,7 @@ tabiew,Text & Data Processing,https://github.com/shshemi/tabiew,yay,Lightweight 
 tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program storing multiple files in single archive preserving permissions dates and directories.,pre-installed,2025-08-11
 tiling-shell,GNOME,https://extensions.gnome.org/extension/7065/tiling-shell/,gnome-extension,Tiling window manager extension for GNOME bringing keyboard-driven window management and layouts.,,2025-08-11
 trash-cli,File Management,https://github.com/andreafrancia/trash-cli,yay,Command-line interface to FreeDesktop.org trash allowing safe file deletion with recovery option.,,2025-08-16
+ttf-ubuntu-font-family,System & Core,https://design.ubuntu.com/font/,pacman,Ubuntu font family with regular light medium bold weights and monospace variants under Ubuntu Font Licence.,,2026-02-02
 ufw,Networking & Security,https://launchpad.net/ufw,yay,Uncomplicated Firewall frontend for iptables providing easy interface for managing host-based firewalls.,,2025-12-10
 unrar,File Management,https://www.rarlab.com/,yay,Archive manager for opening and unpacking RAR ZIP and other formats with backup capabilities.,,2025-11-21
 upscayl,Media,https://github.com/upscayl/upscayl,yay,Free open-source AI application enlarging and enhancing low-resolution images without quality loss.,installed via yay as upscayl-bin,2025-08-12
@@ -136,12 +138,10 @@ worker-build,Development,https://github.com/cloudflare/workers-rs,cargo,Build to
 xclip,Shell & Terminal,https://github.com/astrand/xclip,yay,Command-line interface to X selections clipboard for X11 reading data and placing in selections.,,2025-08-12
 yay,System & Core,https://github.com/Jguer/yay,yay,AUR helper written in Go providing pacman-like syntax for installing packages from Arch User Repository.,,2025-08-11
 yazi,File Management,https://github.com/sxyazi/yazi,yay,Terminal file manager in Rust with async I/O image preview Lua plugins ripgrep fzf and Git integration.,,2025-08-12
+ydotool,Utilities,https://github.com/ReimuNotMoe/ydotool,pacman,Generic command-line automation tool for simulating keyboard and mouse input working on X11 and Wayland.,,2026-01-29
 zen-browser,Web Browser,https://github.com/nicoth-in/zen-browser,yay,Firefox-based browser pushing productivity to new level with tranquil browsing without tracking.,installed via yay as zen-browser-bin,2025-10-29
 zigup,Development,https://github.com/andrewrk/zigup,yay,Tool to download and manage Zig compilers enabling users to switch between different versions.,installed via yay as zigup-bin,2025-12-06
 zip,File Management,https://infozip.sourceforge.net/,yay,Compressor/archiver for creating and modifying zipfiles compatible with DOS-based PKZIP.,,2025-11-22
 zoxide,Shell & Terminal,https://github.com/ajeetdsouza/zoxide,yay,Smarter cd command learning frequently visited directories with fuzzy matching and minimal typing.,,2025-08-11
 zsh,Shell & Terminal,https://www.zsh.org/,pacman,Powerful shell with improved tab completion globbing spelling correction and themeable prompts.,,2025-12-18
 zstd,System & Core,https://github.com/facebook/zstd,pacman,Fast lossless compression algorithm targeting real-time scenarios with flexible speed-to-compression tradeoffs.,pre-installed,2025-08-11
-ydotool,Utilities,https://github.com/ReimuNotMoe/ydotool,pacman,Generic command-line automation tool for simulating keyboard and mouse input working on X11 and Wayland.,,2026-01-29
-dotool,Utilities,https://git.sr.ht/~geb/dotool,yay,Command to simulate keyboard and mouse input anywhere using uinput with simple syntax and no daemon required.,,2026-01-29
-ttf-ubuntu-font-family,System & Core,https://design.ubuntu.com/font/,pacman,Ubuntu font family with regular light medium bold weights and monospace variants under Ubuntu Font Licence.,,2026-02-02

@@ -19,6 +19,10 @@ This project tracks tools on the machine using CSV files. It includes both tools
 | comment | Personal notes or configuration reminders |
 | install_date | Date when the tool was installed (YYYY-MM-DD) |
 
+## Sorting
+
+CSV files must be sorted alphabetically by `name` (case-insensitive).
+
 ## Commit Format
 
 Use conventional commit style with the tool name as scope (kebab-case):
