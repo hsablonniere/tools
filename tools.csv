@@ -144,3 +144,4 @@ zsh,Shell & Terminal,https://www.zsh.org/,pacman,Powerful shell with improved ta
 zstd,System & Core,https://github.com/facebook/zstd,pacman,Fast lossless compression algorithm targeting real-time scenarios with flexible speed-to-compression tradeoffs.,pre-installed,2025-08-11
 ydotool,Utilities,https://github.com/ReimuNotMoe/ydotool,pacman,Generic command-line automation tool for simulating keyboard and mouse input working on X11 and Wayland.,,2026-01-29
 dotool,Utilities,https://git.sr.ht/~geb/dotool,yay,Command to simulate keyboard and mouse input anywhere using uinput with simple syntax and no daemon required.,,2026-01-29
+ttf-ubuntu-font-family,System & Core,https://design.ubuntu.com/font/,pacman,Ubuntu font family with regular light medium bold weights and monospace variants under Ubuntu Font Licence.,,2026-02-02
