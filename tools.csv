@@ -23,6 +23,7 @@ clamav,Networking & Security,https://github.com/Cisco-Talos/clamav,yay,Open sour
 claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,,2025-08-11
 @clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,,2025-08-11
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
+codex-cli,AI Tools,https://github.com/openai/codex,npm,Lightweight AI coding agent that runs in your terminal for code generation and development assistance.,,2026-02-04
 cloc,Text & Data Processing,https://github.com/AlDanial/cloc,yay,Counts blank lines comment lines and physical lines of source code in many programming languages.,,2025-09-19
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
