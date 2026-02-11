@@ -2,7 +2,6 @@ name,category,official_link,install_method,description,comment,install_date
 1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,yay,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
 1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
 7zip,File Management,https://7-zip.org/,yay,File archiver with high compression ratio supporting numerous formats with AES-256 encryption.,,2025-08-12
-agent-browser,AI Tools,https://github.com/vercel-labs/agent-browser,npm,Browser automation CLI for AI agents with Rust CLI and accessibility tree snapshots for headless browsing.,,2026-01-20
 asciinema,Development,https://github.com/asciinema/asciinema,not installed,Terminal session recorder capturing CLI sessions in lightweight text-based format with web playback.,,2026-01-26
 ast-grep,Development,https://github.com/ast-grep/ast-grep,not installed,CLI tool for code structural search and rewriting using fast AST-based pattern matching with tree-sitter.,,2026-01-26
 atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
