@@ -124,6 +124,8 @@ tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program sto
 tiling-shell,GNOME,https://extensions.gnome.org/extension/7065/tiling-shell/,gnome-extension,Tiling window manager extension for GNOME bringing keyboard-driven window management and layouts.,,2025-08-11
 trash-cli,File Management,https://github.com/andreafrancia/trash-cli,yay,Command-line interface to FreeDesktop.org trash allowing safe file deletion with recovery option.,,2025-08-16
 ttf-ubuntu-font-family,System & Core,https://design.ubuntu.com/font/,pacman,Ubuntu font family with regular light medium bold weights and monospace variants under Ubuntu Font Licence.,,2026-02-02
+typescript,Development,https://github.com/microsoft/TypeScript,npm,Programming language building on JavaScript with static type checking for safer code and better tooling.,Used in Claude Code LSP plugin,2026-02-13
+typescript-language-server,Development,https://github.com/typescript-language-server/typescript-language-server,npm,TypeScript-powered language server implementing Language Server Protocol for IDE integrations and editor support.,Used in Claude Code LSP plugin,2026-02-13
 ufw,Networking & Security,https://launchpad.net/ufw,yay,Uncomplicated Firewall frontend for iptables providing easy interface for managing host-based firewalls.,,2025-12-10
 unrar,File Management,https://www.rarlab.com/,yay,Archive manager for opening and unpacking RAR ZIP and other formats with backup capabilities.,,2025-11-21
 upscayl,Media,https://github.com/upscayl/upscayl,yay,Free open-source AI application enlarging and enhancing low-resolution images without quality loss.,installed via yay as upscayl-bin,2025-08-12
