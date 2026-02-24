@@ -1,6 +1,7 @@
 name,category,official_link,install_method,description,comment,install_date
 1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,yay,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
 1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
+android-udev,Development,https://github.com/M0Rf30/android-udev-rules,pacman,Udev rules for Android devices enabling ADB to recognize connected Android phones and tablets.,,2026-02-24
 7zip,File Management,https://7-zip.org/,yay,File archiver with high compression ratio supporting numerous formats with AES-256 encryption.,,2025-08-12
 asciinema,Development,https://github.com/asciinema/asciinema,not installed,Terminal session recorder capturing CLI sessions in lightweight text-based format with web playback.,,2026-01-26
 ast-grep,Development,https://github.com/ast-grep/ast-grep,not installed,CLI tool for code structural search and rewriting using fast AST-based pattern matching with tree-sitter.,,2026-01-26
@@ -108,6 +109,7 @@ ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively se
 rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization using delta-transfer algorithm to minimize network usage moving only changed portions.,,2025-08-11
 rustup,Development,https://github.com/rust-lang/rustup,yay,Official Rust toolchain installer managing versions enabling switching between stable beta and nightly.,,2025-12-05
 s3cmd,File Sync & Download,https://github.com/s3tools/s3cmd,yay,Free command-line S3 client for Amazon S3 and compatible storage with 60+ options including encryption.,,2025-08-27
+scrcpy,Development,https://github.com/Genymobile/scrcpy,yay,Mirror and control Android devices from your computer via USB or TCP/IP with keyboard and mouse support.,,2026-02-24
 showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,,2025-08-12
 signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powerful secure messenger with state-of-the-art end-to-end encryption from independent nonprofit.,installed via yay as signal-desktop,2025-08-12
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
