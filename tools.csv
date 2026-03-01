@@ -101,6 +101,7 @@ playwright-cli,AI Tools,https://github.com/microsoft/playwright-cli,npm,CLI for 
 polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Authorization framework providing API for privileged programs to verify unprivileged user requests.,required for 1password-cli,2025-08-11
 poppler,Text & Data Processing,https://poppler.freedesktop.org/,yay,PDF rendering library for converting and displaying PDF files with tools for manipulation.,,2025-08-11
 procs,Utilities,https://github.com/dalance/procs,yay,Modern ps replacement in Rust with colored output keyword search tree view and Docker support.,,2025-08-16
+qrtool,Utilities,https://github.com/sorairolake/qrtool,yay,Command-line utility for encoding text into QR codes and decoding QR codes from images in multiple formats.,,2026-03-01
 rclone,File Sync & Download,https://github.com/rclone/rclone,yay,Rsync for cloud storage supporting 70+ providers including Google Drive S3 Dropbox with unix-like commands.,,2025-12-01
 redis,Development,https://github.com/redis/redis,yay,In-memory data structure store used as database cache and message broker with persistence and replication.,installed via pacman as valkey,2025-12-16
 restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure efficient backup program with encryption deduplication and multiple storage backends.,,2025-08-11
