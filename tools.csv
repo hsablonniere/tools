@@ -11,6 +11,7 @@ autocannon,Development,https://github.com/mcollina/autocannon,not installed,Fast
 baobab,System & Core,https://apps.gnome.org/Baobab/,pacman,GNOME disk usage analyzer scanning folders and devices presenting findings through tree and graphical views.,pre-installed,2025-08-11
 bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with syntax highlighting and Git integration displaying file contents with beautiful coloring.,,2025-08-11
 bazelisk,Development,https://github.com/bazelbuild/bazelisk,yay,User-friendly launcher for Bazel automatically downloading and managing appropriate Bazel version per project.,,2025-12-19
+bash-completion,Shell & Terminal,https://github.com/scop/bash-completion,pacman,Programmable completion functions for bash providing extensive set of predefined completions for many common commands.,,2026-03-14
 bluetui,Utilities,https://github.com/pythops/bluetui,yay,TUI for managing Bluetooth on Linux with customizable keybindings for connecting and managing devices.,,2025-11-08
 brotli,System & Core,https://github.com/google/brotli,pacman,General-purpose lossless compression combining LZ77 variant and Huffman coding with better ratios than alternatives.,pre-installed,2025-08-11
 bubblewrap,Networking & Security,https://github.com/containers/bubblewrap,yay,Low-level unprivileged sandboxing tool using kernel namespaces and seccomp used by Flatpak.,,2026-01-07
