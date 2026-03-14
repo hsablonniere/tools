@@ -78,6 +78,7 @@ jq,Text & Data Processing,https://github.com/jqlang/jq,yay,Lightweight command-l
 just,Development,https://github.com/casey/just,yay,Command runner in Rust with simple syntax for defining and running project-specific commands without make complexity.,,2025-12-18
 lazydocker,Development,https://github.com/jesseduffield/lazydocker,yay,Simple terminal UI for both Docker and Docker Compose written in Go.,installed via yay as lazydocker-bin,2025-08-12
 lazygit,Development,https://github.com/jesseduffield/lazygit,yay,Simple terminal UI for git commands with an intuitive keyboard-driven interface.,,2025-08-12
+llmfit,AI Tools,https://github.com/AlexsJones/llmfit,yay,Terminal tool that right-sizes LLM models to your hardware by detecting system resources and scoring models for performance.,installed via yay as llmfit-bin,2026-03-14
 loupe,Media,https://apps.gnome.org/Loupe/,yay,GNOME image viewer with fast rendering GPU acceleration and gesture support for viewing photos.,,2025-08-11
 mediainfo,Media,https://github.com/MediaArea/MediaInfo,yay,Unified display of technical and tag data for video and audio files showing format and codec details.,,2025-11-10
 minio-client,File Sync & Download,https://github.com/minio/mc,yay,S3-compatible client for MinIO with upload download listing and bucket management via command-line.,,2026-02-12
