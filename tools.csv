@@ -60,6 +60,7 @@ glab,Development,https://gitlab.com/gitlab-org/cli,yay,Open source GitLab CLI to
 glow,Text & Data Processing,https://github.com/charmbracelet/glow,yay,Terminal-based markdown renderer displaying formatted documents directly in CLI with TUI and CLI modes.,,2025-08-12
 gmailctl,Utilities,https://github.com/mbrt/gmailctl,yay,Declarative configuration for Gmail filters using Jsonnet with automatic updates via Gmail API.,,2026-01-27
 go,Development,https://go.dev/,yay,Open-source programming language by Google with fast compilation concurrency support and garbage collection.,,2025-08-11
+google-workspace-cli,Development,https://github.com/googleworkspace/cli,npm,Unified command-line interface for Google Workspace APIs (Drive Gmail Calendar Sheets Docs Chat Admin) with dynamic command generation and AI agent support.,installed via npm as @googleworkspace/cli,2026-04-08
 gparted,Utilities,https://gparted.org/,yay,GNOME Partition Editor for graphically managing disk partitions with resize copy move operations.,,2025-08-11
 gpg,System & Core,https://gnupg.org/,pacman,Complete free implementation of OpenPGP standard for encrypting signing data with key management.,pre-installed. installed via pacman as gnupg,2025-08-11
 graphicsmagick,Media,https://github.com/GraphicsMagick/graphicsmagick,yay,Image processing system providing efficient tools for manipulating images in over 90 formats.,,2025-08-11
