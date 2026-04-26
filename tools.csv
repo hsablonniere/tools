@@ -28,6 +28,7 @@ codex-cli,AI Tools,https://github.com/openai/codex,npm,Lightweight AI coding age
 cloc,Text & Data Processing,https://github.com/AlDanial/cloc,yay,Counts blank lines comment lines and physical lines of source code in many programming languages.,,2025-09-19
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
+curl-impersonate,Networking & Security,https://github.com/lwthiker/curl-impersonate,pacman,Special build of curl that can impersonate Chrome Edge Safari and Firefox with identical TLS and HTTP handshakes.,,2026-04-26
 dconf-editor,Utilities,https://gitlab.gnome.org/GNOME/dconf-editor,yay,Tool for direct editing of dconf configuration database and GNOME applications internal settings.,,2025-08-14
 deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript runtime for the modern web with built-in TypeScript support security and tooling.,,2025-08-11
 docker-buildx,Development,https://github.com/docker/buildx,yay,Docker CLI plugin for extended build capabilities with BuildKit.,,2025-08-12
