@@ -103,6 +103,7 @@ oha,Utilities,https://github.com/hatoo/oha,yay,HTTP load generator with real-tim
 ollama,AI Tools,https://github.com/ollama/ollama,yay,Run large language models locally with easy model management and OpenAI-compatible API.,,2025-12-19
 opencode,AI Tools,https://github.com/opencode-ai/opencode,yay,Powerful AI coding agent built for the terminal with support for multiple AI providers and code tool integration.,installed via yay as opencode-bin,2025-08-11
 perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application for reading and writing meta information in files including camera maker notes.,,2025-08-12
+pi,Development,https://pi.dev/,npm,Minimal terminal coding harness that is extensible and optimized for tool use.,,2026-05-11
 piper-tts,Media,https://github.com/rhasspy/piper,yay,Fast local neural text to speech enabling offline speech synthesis without cloud services.,installed via yay as piper-tts-bin,2025-12-10
 playwright-cli,AI Tools,https://github.com/microsoft/playwright-cli,npm,CLI for common Playwright actions enabling recording generating code inspecting selectors and screenshots optimized for modern coding agents.,installed via npm as @playwright/cli,2026-02-08
 polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Authorization framework providing API for privileged programs to verify unprivileged user requests.,required for 1password-cli,2025-08-11
