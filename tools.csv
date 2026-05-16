@@ -1,17 +1,18 @@
 name,category,official_link,install_method,description,comment,install_date
-1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,yay,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
 1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
-android-udev,Development,https://github.com/M0Rf30/android-udev-rules,pacman,Udev rules for Android devices enabling ADB to recognize connected Android phones and tablets.,,2026-02-24
+1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,yay,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
 7zip,File Management,https://7-zip.org/,yay,File archiver with high compression ratio supporting numerous formats with AES-256 encryption.,,2025-08-12
+@clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,,2025-08-11
+android-udev,Development,https://github.com/M0Rf30/android-udev-rules,pacman,Udev rules for Android devices enabling ADB to recognize connected Android phones and tablets.,,2026-02-24
 asciinema,Development,https://github.com/asciinema/asciinema,not installed,Terminal session recorder capturing CLI sessions in lightweight text-based format with web playback.,,2026-01-26
 ast-grep,Development,https://github.com/ast-grep/ast-grep,not installed,CLI tool for code structural search and rewriting using fast AST-based pattern matching with tree-sitter.,,2026-01-26
-atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
 at,Utilities,https://github.com/wking/at,yay,Command-line utility for scheduling one-time tasks to run at a specific time using atd daemon.,,2026-01-16
+atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
 autocannon,Development,https://github.com/mcollina/autocannon,not installed,Fast HTTP/1.1 benchmarking tool written in Node.js with HTTP pipelining and HTTPS support.,,2026-01-26
 baobab,System & Core,https://apps.gnome.org/Baobab/,pacman,GNOME disk usage analyzer scanning folders and devices presenting findings through tree and graphical views.,pre-installed,2025-08-11
+bash-completion,Shell & Terminal,https://github.com/scop/bash-completion,pacman,Programmable completion functions for bash providing extensive set of predefined completions for many common commands.,,2026-03-14
 bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with syntax highlighting and Git integration displaying file contents with beautiful coloring.,,2025-08-11
 bazelisk,Development,https://github.com/bazelbuild/bazelisk,yay,User-friendly launcher for Bazel automatically downloading and managing appropriate Bazel version per project.,,2025-12-19
-bash-completion,Shell & Terminal,https://github.com/scop/bash-completion,pacman,Programmable completion functions for bash providing extensive set of predefined completions for many common commands.,,2026-03-14
 bluetui,Utilities,https://github.com/pythops/bluetui,yay,TUI for managing Bluetooth on Linux with customizable keybindings for connecting and managing devices.,,2025-11-08
 brotli,System & Core,https://github.com/google/brotli,pacman,General-purpose lossless compression combining LZ77 variant and Huffman coding with better ratios than alternatives.,pre-installed,2025-08-11
 bubblewrap,Networking & Security,https://github.com/containers/bubblewrap,yay,Low-level unprivileged sandboxing tool using kernel namespaces and seccomp used by Flatpak.,,2026-01-07
@@ -22,7 +23,6 @@ cheese,Media,https://gitlab.gnome.org/GNOME/cheese,yay,GNOME application for tak
 chromium,Web Browser,https://www.chromium.org/,yay,Open-source browser project building a safer faster and more stable web experience providing code for Chrome.,,2025-08-11
 clamav,Networking & Security,https://github.com/Cisco-Talos/clamav,yay,Open source antivirus engine for detecting trojans viruses and malware maintained by Cisco Talos.,,2025-12-10
 claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,,2025-08-11
-@clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,,2025-08-11
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
 cloc,Text & Data Processing,https://github.com/AlDanial/cloc,yay,Counts blank lines comment lines and physical lines of source code in many programming languages.,,2025-09-19
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
@@ -30,9 +30,9 @@ curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for tra
 curl-impersonate,Networking & Security,https://github.com/lwthiker/curl-impersonate,pacman,Special build of curl that can impersonate Chrome Edge Safari and Firefox with identical TLS and HTTP handshakes.,,2026-04-26
 dconf-editor,Utilities,https://gitlab.gnome.org/GNOME/dconf-editor,yay,Tool for direct editing of dconf configuration database and GNOME applications internal settings.,,2025-08-14
 deno,Development,https://github.com/denoland/deno,yay,Open-source JavaScript runtime for the modern web with built-in TypeScript support security and tooling.,,2025-08-11
+docker,Development,https://github.com/docker/docker-ce,yay,Platform enabling developers to build share and run containerized applications consistently across environments.,,2025-08-12
 docker-buildx,Development,https://github.com/docker/buildx,yay,Docker CLI plugin for extended build capabilities with BuildKit.,,2025-08-12
 docker-compose,Development,https://github.com/docker/compose,yay,Tool for defining and running multi-container Docker applications using a single configuration file.,,2025-11-10
-docker,Development,https://github.com/docker/docker-ce,yay,Platform enabling developers to build share and run containerized applications consistently across environments.,,2025-08-12
 dog,Networking & Security,https://github.com/ogham/dog,yay,Command-line DNS client with colorful output supporting DNS-over-TLS and DNS-over-HTTPS in Rust.,,2025-08-12
 dotool,Utilities,https://git.sr.ht/~geb/dotool,yay,Command to simulate keyboard and mouse input anywhere using uinput with simple syntax and no daemon required.,,2026-01-29
 duf,Utilities,https://github.com/muesli/duf,yay,Disk Usage/Free Utility providing colorful alternative to df with sorting filtering and JSON output.,,2025-08-16
@@ -51,8 +51,8 @@ fzf,Shell & Terminal,https://github.com/junegunn/fzf,yay,General-purpose interac
 gh,Development,https://github.com/cli/cli,yay,GitHub CLI bringing pull requests issues and repository management directly into your terminal alongside git.,installed via yay as github-cli,2025-08-11
 ghostty,Shell & Terminal,https://github.com/ghostty-org/ghostty,yay,Fast feature-rich native cross-platform terminal emulator with multi-window tabbing and splits.,,2025-08-11
 gimp,Media,https://www.gimp.org/,yay,Cross-platform image editor providing free and open-source sophisticated image manipulation capabilities.,,2025-08-11
-git-absorb,Development,https://github.com/tummychow/git-absorb,yay,Automatically maps staged changes to their corresponding commits enabling easy application of review feedback.,,2025-08-12
 git,Development,https://github.com/git/git,yay,Free and open source distributed version control system designed for projects of any size with speed and efficiency.,,2025-08-11
+git-absorb,Development,https://github.com/tummychow/git-absorb,yay,Automatically maps staged changes to their corresponding commits enabling easy application of review feedback.,,2025-08-12
 git-interactive-rebase-tool,Development,https://github.com/MitMaro/git-interactive-rebase-tool,yay,Native cross-platform terminal-based sequence editor for interactive rebase with visual selection.,installed via yay as git-interactive-rebase-tool-bin,2025-08-11
 git-sizer,Development,https://github.com/github/git-sizer,yay,Computes size metrics for Git repositories flagging issues that might cause problems or inconvenience.,,2025-08-12
 gjs,Development,https://gitlab.gnome.org/GNOME/gjs,yay,GNOME JavaScript runtime built on SpiderMonkey powering GNOME Shell and many GNOME applications.,,2025-08-11
@@ -112,8 +112,8 @@ redis,Development,https://github.com/redis/redis,yay,In-memory data structure st
 restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure efficient backup program with encryption deduplication and multiple storage backends.,,2025-08-11
 resvg,Media,https://github.com/RazrFalcon/resvg,yay,SVG rendering library available as Rust library C library or CLI tool for static vector graphics.,,2025-08-12
 ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively searches directories for regex patterns respecting gitignore with Unicode and compressed files.,,2025-08-11
-rtk,AI Tools,https://github.com/rtk-ai/rtk,cargo,CLI proxy that reduces LLM token consumption by 60-90% on common development commands.,,2026-05-05
 rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization using delta-transfer algorithm to minimize network usage moving only changed portions.,,2025-08-11
+rtk,AI Tools,https://github.com/rtk-ai/rtk,cargo,CLI proxy that reduces LLM token consumption by 60-90% on common development commands.,,2026-05-05
 rustup,Development,https://github.com/rust-lang/rustup,yay,Official Rust toolchain installer managing versions enabling switching between stable beta and nightly.,,2025-12-05
 s3cmd,File Sync & Download,https://github.com/s3tools/s3cmd,yay,Free command-line S3 client for Amazon S3 and compatible storage with 60+ options including encryption.,,2025-08-27
 scrcpy,Development,https://github.com/Genymobile/scrcpy,yay,Mirror and control Android devices from your computer via USB or TCP/IP with keyboard and mouse support.,,2026-02-24
@@ -146,7 +146,7 @@ vlc,Media,https://github.com/videolan/vlc,yay,Free open source cross-platform mu
 vscode,Development,https://github.com/microsoft/vscode,yay,Free open-source code editor by Microsoft with AI-powered features and rich extension ecosystem.,installed via yay as code,2025-08-11
 wasm-pack,Development,https://github.com/rustwasm/wasm-pack,cargo,Tool for building and publishing Rust-generated WebAssembly packages to npm registry.,,2025-12-08
 webstorm,Development,https://www.jetbrains.com/webstorm/,yay,JavaScript and TypeScript IDE by JetBrains with intelligent coding assistance and debugging tools.,,2025-11-26
-wget,System & Core,https://www.gnu.org/software/wget/,yay,Command-line utility for downloading files from the web supporting HTTP HTTPS and FTP protocols.,,2025-08-11
+wget,System & Core,https://www.gnu.org/software/wget/,yay,Command-line utility for downloading files from the web supporting HTTP HTTPS FTP SFTP and many protocols.,,2025-08-11
 window-key-switcher,GNOME,https://extensions.gnome.org/extension/6623/window-key-switcher/,gnome-extension,Switch between windows using keyboard shortcuts with visual overlay showing available windows.,,2025-08-11
 worker-build,Development,https://github.com/cloudflare/workers-rs,cargo,Build tool for Cloudflare Workers written in Rust compiling to WebAssembly.,,2025-12-08
 xclip,Shell & Terminal,https://github.com/astrand/xclip,yay,Command-line interface to X selections clipboard for X11 reading data and placing in selections.,,2025-08-12
