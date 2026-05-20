@@ -121,6 +121,7 @@ scrcpy,Development,https://github.com/Genymobile/scrcpy,yay,Mirror and control A
 showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,,2025-08-12
 signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powerful secure messenger with state-of-the-art end-to-end encryption from independent nonprofit.,installed via yay as signal-desktop,2025-08-12
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
+slack-mcp-server,AI Tools,https://github.com/korotovsky/slack-mcp-server,npm,Model Context Protocol (MCP) server for Slack Workspaces enabling integration with Claude and other tools.,,2026-05-20
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
 socat,Networking & Security,http://www.dest-unreach.org/socat/,yay,Multipurpose relay tool establishing bidirectional byte streams between sockets pipes devices and files.,,2026-01-07
 sshfs,Networking & Security,https://github.com/libfuse/sshfs,yay,Network filesystem mounting remote filesystems using SFTP over SSH with no server-side configuration.,,2025-11-28
