@@ -119,6 +119,7 @@ rtk,AI Tools,https://github.com/rtk-ai/rtk,cargo,CLI proxy that reduces LLM toke
 rustup,Development,https://github.com/rust-lang/rustup,yay,Official Rust toolchain installer managing versions enabling switching between stable beta and nightly.,,2025-12-05
 s3cmd,File Sync & Download,https://github.com/s3tools/s3cmd,yay,Free command-line S3 client for Amazon S3 and compatible storage with 60+ options including encryption.,,2025-08-27
 scrcpy,Development,https://github.com/Genymobile/scrcpy,yay,Mirror and control Android devices from your computer via USB or TCP/IP with keyboard and mouse support.,,2026-02-24
+shotcut,Media,https://www.shotcut.org/,yay,Free open-source cross-platform video editor supporting hundreds of audio and video formats with native timeline editing and 4K support.,,2026-05-23
 showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,,2025-08-12
 signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powerful secure messenger with state-of-the-art end-to-end encryption from independent nonprofit.,installed via yay as signal-desktop,2025-08-12
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
