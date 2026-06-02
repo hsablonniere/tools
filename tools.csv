@@ -124,6 +124,7 @@ scrcpy,Development,https://github.com/Genymobile/scrcpy,yay,Mirror and control A
 shotcut,Media,https://www.shotcut.org/,yay,Free open-source cross-platform video editor supporting hundreds of audio and video formats with native timeline editing and 4K support.,,2026-05-23
 showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,,2025-08-12
 signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powerful secure messenger with state-of-the-art end-to-end encryption from independent nonprofit.,installed via yay as signal-desktop,2025-08-12
+skills,AI Tools,https://github.com/vercel-labs/skills,npm,CLI for the open agent skills ecosystem enabling discovery and installation of skill packages for Claude Code OpenCode Cursor and 50+ other coding agents.,,2026-06-02
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
 slack-mcp-server,AI Tools,https://github.com/korotovsky/slack-mcp-server,npm,Model Context Protocol (MCP) server for Slack Workspaces enabling integration with Claude and other tools.,,2026-05-20
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
