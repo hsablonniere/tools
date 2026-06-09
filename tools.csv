@@ -135,6 +135,7 @@ stow,File Management,https://www.gnu.org/software/stow/,yay,Symlink farm manager
 stu,Utilities,https://github.com/lusingander/stu,yay,TUI application for AWS S3 to browse and manage S3 buckets and objects from the terminal.,,2025-08-31
 surge-xt,Media,https://surge-synthesizer.github.io/,yay,Open-source wavetable subtractive synthesizer with FM synthesis polyphonic modulation and full MPE support.,,2026-06-06
 subversion,Development,https://subversion.apache.org/,yay,Centralized version control system for tracking changes in files and directories over time.,,2025-11-19
+sweethome3d,Media,http://www.sweethome3d.com/,pacman,Free open-source interior design application for drawing floor plans arranging furniture and creating 3D visualizations with 10000+ furniture models.,,2026-06-09
 system-monitor,GNOME,https://extensions.gnome.org/extension/120/system-monitor/,gnome-extension,Display system information in GNOME Shell status bar like CPU memory swap network and disk usage.,,2025-08-11
 tabiew,Text & Data Processing,https://github.com/shshemi/tabiew,yay,Lightweight TUI to view and query tabular data files like CSV TSV and Parquet with interactive browsing.,,2025-08-12
 tar,System & Core,https://www.gnu.org/software/tar/,pacman,Archiving program storing multiple files in single archive preserving permissions dates and directories.,pre-installed,2025-08-11
