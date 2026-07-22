@@ -10,6 +10,7 @@ at,Utilities,https://github.com/wking/at,yay,Command-line utility for scheduling
 atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
 audacity,Media,https://www.audacityteam.org/,yay,Free open-source audio editor for recording editing and manipulating digital audio files with multi-track support.,,2026-05-17
 autocannon,Development,https://github.com/mcollina/autocannon,not installed,Fast HTTP/1.1 benchmarking tool written in Node.js with HTTP pipelining and HTTPS support.,,2026-01-26
+bandwhich,Networking & Security,https://github.com/imsnif/bandwhich,pacman,Terminal bandwidth utilization tool displaying current network usage by process connection and remote IP.,"needs sudo or a setcap wrapper with cap_sys_ptrace,cap_dac_read_search,cap_net_raw,cap_net_admin+ep",2026-07-22
 baobab,System & Core,https://apps.gnome.org/Baobab/,pacman,GNOME disk usage analyzer scanning folders and devices presenting findings through tree and graphical views.,pre-installed,2025-08-11
 bash-completion,Shell & Terminal,https://github.com/scop/bash-completion,pacman,Programmable completion functions for bash providing extensive set of predefined completions for many common commands.,,2026-03-14
 bat,Text & Data Processing,https://github.com/sharkdp/bat,yay,A cat clone with syntax highlighting and Git integration displaying file contents with beautiful coloring.,,2025-08-11
