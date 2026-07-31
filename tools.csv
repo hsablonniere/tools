@@ -119,7 +119,7 @@ restic,Networking & Security,https://github.com/restic/restic,yay,Fast secure ef
 resvg,Media,https://github.com/RazrFalcon/resvg,yay,SVG rendering library available as Rust library C library or CLI tool for static vector graphics.,,2025-08-12
 ripgrep,File Management,https://github.com/BurntSushi/ripgrep,yay,Recursively searches directories for regex patterns respecting gitignore with Unicode and compressed files.,,2025-08-11
 rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization using delta-transfer algorithm to minimize network usage moving only changed portions.,,2025-08-11
-rtk,AI Tools,https://github.com/rtk-ai/rtk,cargo,CLI proxy that reduces LLM token consumption by 60-90% on common development commands.,,2026-05-05
+rtk,AI Tools,https://github.com/rtk-ai/rtk,yay,CLI proxy that reduces LLM token consumption by 60-90% on common development commands.,"moved from cargo to AUR. Never run cargo install rtk: the crates.io rtk crate is an unrelated project that overwrites the binary and breaks the Claude Code Bash hook",2026-05-05
 rustup,Development,https://github.com/rust-lang/rustup,yay,Official Rust toolchain installer managing versions enabling switching between stable beta and nightly.,,2025-12-05
 s3cmd,File Sync & Download,https://github.com/s3tools/s3cmd,yay,Free command-line S3 client for Amazon S3 and compatible storage with 60+ options including encryption.,,2025-08-27
 sane-backends,Utilities,https://gitlab.com/sane-project/backends,yay,Scanner Access Now Easy backends providing drivers for various scanner hardware.,,2026-05-29
