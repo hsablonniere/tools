@@ -73,6 +73,7 @@ graphicsmagick,Media,https://github.com/GraphicsMagick/graphicsmagick,yay,Image 
 graphviz,Development,https://github.com/graphp/graphviz,yay,Graph visualization software for representing structural information as diagrams of abstract graphs.,,2025-11-10
 gromit-mpx,Utilities,https://github.com/bk138/gromit-mpx,yay,On-screen annotation tool for X11 and Wayland enabling drawing and annotations over your screen.,,2025-08-13
 gzip,System & Core,https://www.gnu.org/software/gzip/,pacman,File compression utility using DEFLATE algorithm reducing file sizes by up to 70-80 percent.,pre-installed,2025-08-11
+happy-appy-hotkey,GNOME,https://extensions.gnome.org/extension/6057/happy-appy-hotkey/,gnome-extension,Assign hotkeys to applications to give them focus or launch them with workspace restriction and Wayland support.,,2026-08-04
 harlequin,Development,https://github.com/tconbeer/harlequin,uvx,The SQL IDE for your terminal - portable database client supporting DuckDB SQLite and other databases.,,2025-10-29
 htop,System & Core,https://github.com/htop-dev/htop,pacman,Cross-platform interactive process viewer monitoring CPU memory load averages with process management.,pre-installed,2025-08-11
 hubmon,Development,https://github.com/nicholaschum/hubmon,npm,File system watcher running commands and auto-restarting on file changes using glob patterns.,,2025-11-08
