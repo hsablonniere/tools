@@ -29,6 +29,7 @@ clamav,Networking & Security,https://github.com/Cisco-Talos/clamav,yay,Open sour
 claude-code,AI Tools,https://github.com/anthropics/claude-code,curl/bash,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,,2025-08-11
 clever-tools,Development,https://github.com/CleverCloud/clever-tools,yay,Official CLI for Clever Cloud to deploy and manage applications and services from the command line.,installed via yay as clever-tools-bin,2025-08-12
 cloc,Text & Data Processing,https://github.com/AlDanial/cloc,yay,Counts blank lines comment lines and physical lines of source code in many programming languages.,,2025-09-19
+cloudflared,Networking & Security,https://github.com/cloudflare/cloudflared,pacman,Command-line client for Cloudflare Tunnel to expose local services securely without opening firewall ports.,,2026-08-30
 ctop,Utilities,https://github.com/bcicen/ctop,yay,Top-like interface for container metrics with real-time overview of Docker and runC containers.,,2025-08-12
 cups,System & Core,https://www.cups.org/,pacman,Standards-based open source printing system letting a computer act as a print server for local and network printers.,,2026-08-26
 curl,System & Core,https://github.com/curl/curl,pacman,Command-line tool for transferring data using URLs supporting HTTP HTTPS FTP SFTP and many protocols.,pre-installed,2025-08-11
