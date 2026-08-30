@@ -167,6 +167,7 @@ webstorm,Development,https://www.jetbrains.com/webstorm/,yay,JavaScript and Type
 wget,System & Core,https://www.gnu.org/software/wget/,yay,Command-line utility for downloading files from the web supporting HTTP HTTPS FTP SFTP and many protocols.,,2025-08-11
 worker-build,Development,https://github.com/cloudflare/workers-rs,cargo,Build tool for Cloudflare Workers written in Rust compiling to WebAssembly.,,2025-12-08
 xclip,Shell & Terminal,https://github.com/astrand/xclip,yay,Command-line interface to X selections clipboard for X11 reading data and placing in selections.,,2025-08-12
+xdotool,Utilities,https://github.com/jordansissel/xdotool,pacman,Command-line tool for simulating keyboard and mouse input and manipulating windows on X11.,,2026-08-30
 yay,System & Core,https://github.com/Jguer/yay,yay,AUR helper written in Go providing pacman-like syntax for installing packages from Arch User Repository.,,2025-08-11
 yazi,File Management,https://github.com/sxyazi/yazi,yay,Terminal file manager in Rust with async I/O image preview Lua plugins ripgrep fzf and Git integration.,,2025-08-12
 ydotool,Utilities,https://github.com/ReimuNotMoe/ydotool,pacman,Generic command-line automation tool for simulating keyboard and mouse input working on X11 and Wayland.,,2026-01-29
