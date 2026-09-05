@@ -108,6 +108,7 @@ npm-check,Development,https://github.com/dylang/npm-check,npm,Identifies outdate
 obs-studio,Media,https://github.com/obsproject/obs-studio,yay,Free open source software for video recording and live streaming capturing and mixing across platforms.,,2025-08-11
 oha,Utilities,https://github.com/hatoo/oha,yay,HTTP load generator with real-time TUI animation written in Rust supporting HTTP/2 and HTTP/3.,,2025-12-08
 opencode,AI Tools,https://github.com/opencode-ai/opencode,yay,Powerful AI coding agent built for the terminal with support for multiple AI providers and code tool integration.,installed via yay as opencode-bin,2025-08-11
+ovhcloud-cli,Networking & Security,https://github.com/ovh/ovhcloud-cli,go,Official command line interface to manage OVHcloud services including domains and DNS zones.,installed via go install as ovhcloud,2026-09-05
 perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application for reading and writing meta information in files including camera maker notes.,,2025-08-12
 pi,Development,https://pi.dev/,npm,Minimal terminal coding harness that is extensible and optimized for tool use.,,2026-05-11
 piper-tts,Media,https://github.com/rhasspy/piper,yay,Fast local neural text to speech enabling offline speech synthesis without cloud services.,installed via yay as piper-tts-bin,2025-12-10
