@@ -81,6 +81,7 @@ happy-appy-hotkey,GNOME,https://extensions.gnome.org/extension/6057/happy-appy-h
 harlequin,Development,https://github.com/tconbeer/harlequin,uvx,The SQL IDE for your terminal - portable database client supporting DuckDB SQLite and other databases.,,2025-10-29
 htop,System & Core,https://github.com/htop-dev/htop,pacman,Cross-platform interactive process viewer monitoring CPU memory load averages with process management.,pre-installed,2025-08-11
 hubmon,Development,https://github.com/nicholaschum/hubmon,npm,File system watcher running commands and auto-restarting on file changes using glob patterns.,,2025-11-08
+hunk,Development,https://www.hunk.dev,npm,Review-first terminal diff viewer for agentic coders letting you approve or reject diff hunks interactively.,installed via npm as hunkdiff,2026-09-09
 hurl,Development,https://github.com/Orange-OpenSource/hurl,yay,Command line tool running HTTP requests defined in plain text with support for chaining and testing.,,2025-08-11
 hyperfine,Utilities,https://github.com/sharkdp/hyperfine,yay,Command-line benchmarking tool with statistical analysis warmup runs and export to CSV JSON Markdown.,,2025-08-24
 imagemagick,Media,https://github.com/ImageMagick/ImageMagick,yay,Free open-source suite for editing and manipulating digital images supporting over 200 file formats.,,2025-08-11
