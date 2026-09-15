@@ -53,6 +53,7 @@ fdupes,File Management,https://github.com/adrianlopezroche/fdupes,yay,Command-li
 ffmpeg,Media,https://github.com/FFmpeg/FFmpeg,yay,Complete cross-platform solution to record convert and stream audio and video between formats.,,2025-08-11
 file-roller,File Management,https://gitlab.gnome.org/GNOME/file-roller,yay,Archive manager for GNOME desktop enabling users to manage compressed files and archives.,,2025-09-09
 fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-friendly shell with syntax highlighting autosuggest-as-you-type and automatic tab completions.,,2025-08-11
+fontforge,Text & Data Processing,https://fontforge.org/,pacman,Font editor for creating and modifying outline fonts in formats like OpenType and TrueType.,,2026-09-15
 fprint,System & Core,https://fprint.freedesktop.org/,yay,Linux fingerprint reader support providing libfprint library and fprintd daemon for unified authentication.,installed via yay as fprintd,2025-08-11
 fzf,Shell & Terminal,https://github.com/junegunn/fzf,yay,General-purpose interactive command-line fuzzy finder for files history processes and git commits.,,2025-08-11
 gh,Development,https://github.com/cli/cli,yay,GitHub CLI bringing pull requests issues and repository management directly into your terminal alongside git.,installed via yay as github-cli,2025-08-11
