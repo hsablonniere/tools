@@ -52,6 +52,7 @@ fd,File Management,https://github.com/sharkdp/fd,yay,Simple fast find alternativ
 fdupes,File Management,https://github.com/adrianlopezroche/fdupes,yay,Command-line utility for identifying and managing duplicate files across directories.,,2025-11-10
 ffmpeg,Media,https://github.com/FFmpeg/FFmpeg,yay,Complete cross-platform solution to record convert and stream audio and video between formats.,,2025-08-11
 file-roller,File Management,https://gitlab.gnome.org/GNOME/file-roller,yay,Archive manager for GNOME desktop enabling users to manage compressed files and archives.,,2025-09-09
+firecracker,Development,https://github.com/firecracker-microvm/firecracker,pacman,Lightweight virtual machine monitor using KVM to create secure lightweight microVMs.,,2026-09-19
 fish,Shell & Terminal,https://github.com/fish-shell/fish-shell,yay,Smart user-friendly shell with syntax highlighting autosuggest-as-you-type and automatic tab completions.,,2025-08-11
 fontforge,Text & Data Processing,https://fontforge.org/,pacman,Font editor for creating and modifying outline fonts in formats like OpenType and TrueType.,,2026-09-15
 fprint,System & Core,https://fprint.freedesktop.org/,yay,Linux fingerprint reader support providing libfprint library and fprintd daemon for unified authentication.,installed via yay as fprintd,2025-08-11
