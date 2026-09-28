@@ -67,7 +67,6 @@ git-sizer,Development,https://github.com/github/git-sizer,yay,Computes size metr
 gjs,Development,https://gitlab.gnome.org/GNOME/gjs,yay,GNOME JavaScript runtime built on SpiderMonkey powering GNOME Shell and many GNOME applications.,,2025-08-11
 glab,Development,https://gitlab.com/gitlab-org/cli,yay,Open source GitLab CLI tool bringing issues merge requests and pipelines to your terminal.,,2025-08-11
 glow,Text & Data Processing,https://github.com/charmbracelet/glow,yay,Terminal-based markdown renderer displaying formatted documents directly in CLI with TUI and CLI modes.,,2025-08-12
-gmailctl,Utilities,https://github.com/mbrt/gmailctl,yay,Declarative configuration for Gmail filters using Jsonnet with automatic updates via Gmail API.,,2026-01-27
 go,Development,https://go.dev/,yay,Open-source programming language by Google with fast compilation concurrency support and garbage collection.,,2025-08-11
 google-chrome,Web Browser,https://www.google.com/chrome,yay,The popular web browser by Google (Stable Channel),,2026-05-09
 google-cloud-cli,Development,https://cloud.google.com/sdk/docs/install,yay,Official Google Cloud CLI for managing GCP resources and services with complete toolset for Cloud Platform.,installed via yay as google-cloud-cli,2026-04-08
