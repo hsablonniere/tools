@@ -2,7 +2,7 @@ name,category,official_link,install_method,description,comment,install_date
 1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
 1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,yay,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
 7zip,File Management,https://7-zip.org/,yay,File archiver with high compression ratio supporting numerous formats with AES-256 encryption.,,2025-08-12
-@clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,,2025-08-11
+@clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,mise:npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,installed via mise:npm as @clevercloud/random-labels,2025-08-11
 android-udev,Development,https://github.com/M0Rf30/android-udev-rules,pacman,Udev rules for Android devices enabling ADB to recognize connected Android phones and tablets.,,2026-02-24
 asciinema,Development,https://github.com/asciinema/asciinema,not installed,Terminal session recorder capturing CLI sessions in lightweight text-based format with web playback.,,2026-01-26
 ast-grep,Development,https://github.com/ast-grep/ast-grep,not installed,CLI tool for code structural search and rewriting using fast AST-based pattern matching with tree-sitter.,,2026-01-26
@@ -43,7 +43,7 @@ dog,Networking & Security,https://github.com/ogham/dog,yay,Command-line DNS clie
 dosfstools,System & Core,https://github.com/dosfstools/dosfstools,pacman,Tool for creating and managing DOS-formatted FAT32 filesystems for USB drives and boot partitions with mkdosfs fsck.fat and fatlabel utilities.,,2026-06-12
 dotool,Utilities,https://git.sr.ht/~geb/dotool,yay,Command to simulate keyboard and mouse input anywhere using uinput with simple syntax and no daemon required.,,2026-01-29
 duf,Utilities,https://github.com/muesli/duf,yay,Disk Usage/Free Utility providing colorful alternative to df with sorting filtering and JSON output.,,2025-08-16
-emoj,Utilities,https://github.com/sindresorhus/emoj,npm,Find relevant emoji from text on command-line using local database without internet connection.,,2025-08-11
+emoj,Utilities,https://github.com/sindresorhus/emoj,mise:npm,Find relevant emoji from text on command-line using local database without internet connection.,installed via mise:npm as emoj,2025-08-11
 epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOME browser with integrated privacy protections including ad blocker and tracking prevention.,pre-installed,2025-08-11
 evince,Utilities,https://apps.gnome.org/Evince/,yay,GNOME document viewer for PDF PostScript and other document formats with search and annotations.,,2025-08-11
 extension-manager,Utilities,https://github.com/mjakeman/extension-manager,yay,Utility for browsing and installing GNOME Shell Extensions directly from extensions.gnome.org.,,2025-08-11
@@ -70,7 +70,7 @@ glow,Text & Data Processing,https://github.com/charmbracelet/glow,yay,Terminal-b
 go,Development,https://go.dev/,yay,Open-source programming language by Google with fast compilation concurrency support and garbage collection.,,2025-08-11
 google-chrome,Web Browser,https://www.google.com/chrome,yay,The popular web browser by Google (Stable Channel),,2026-05-09
 google-cloud-cli,Development,https://cloud.google.com/sdk/docs/install,yay,Official Google Cloud CLI for managing GCP resources and services with complete toolset for Cloud Platform.,installed via yay as google-cloud-cli,2026-04-08
-google-workspace-cli,Development,https://github.com/googleworkspace/cli,npm,Unified command-line interface for Google Workspace APIs (Drive Gmail Calendar Sheets Docs Chat Admin) with dynamic command generation and AI agent support.,installed via npm as @googleworkspace/cli. binary command: gws,2026-04-08
+google-workspace-cli,Development,https://github.com/googleworkspace/cli,mise:npm,Unified command-line interface for Google Workspace APIs (Drive Gmail Calendar Sheets Docs Chat Admin) with dynamic command generation and AI agent support.,installed via mise:npm as @googleworkspace/cli. binary command: gws,2026-04-08
 gparted,Utilities,https://gparted.org/,yay,GNOME Partition Editor for graphically managing disk partitions with resize copy move operations.,,2025-08-11
 gpg,System & Core,https://gnupg.org/,pacman,Complete free implementation of OpenPGP standard for encrypting signing data with key management.,pre-installed. installed via pacman as gnupg,2025-08-11
 graphicsmagick,Media,https://github.com/GraphicsMagick/graphicsmagick,yay,Image processing system providing efficient tools for manipulating images in over 90 formats.,,2025-08-11
@@ -81,8 +81,8 @@ gzip,System & Core,https://www.gnu.org/software/gzip/,pacman,File compression ut
 happy-appy-hotkey,GNOME,https://extensions.gnome.org/extension/6057/happy-appy-hotkey/,gnome-extension,Assign hotkeys to applications to give them focus or launch them with workspace restriction and Wayland support.,,2026-08-04
 harlequin,Development,https://github.com/tconbeer/harlequin,uvx,The SQL IDE for your terminal - portable database client supporting DuckDB SQLite and other databases.,,2025-10-29
 htop,System & Core,https://github.com/htop-dev/htop,pacman,Cross-platform interactive process viewer monitoring CPU memory load averages with process management.,pre-installed,2025-08-11
-hubmon,Development,https://github.com/nicholaschum/hubmon,npm,File system watcher running commands and auto-restarting on file changes using glob patterns.,,2025-11-08
-hunk,Development,https://www.hunk.dev,npm,Review-first terminal diff viewer for agentic coders letting you approve or reject diff hunks interactively.,installed via npm as hunkdiff,2026-09-09
+hubmon,Development,https://github.com/nicholaschum/hubmon,mise:npm,File system watcher running commands and auto-restarting on file changes using glob patterns.,installed via mise:npm as hubmon,2025-11-08
+hunk,Development,https://www.hunk.dev,mise:npm,Review-first terminal diff viewer for agentic coders letting you approve or reject diff hunks interactively.,installed via mise:npm as hunkdiff,2026-09-09
 hurl,Development,https://github.com/Orange-OpenSource/hurl,yay,Command line tool running HTTP requests defined in plain text with support for chaining and testing.,,2025-08-11
 hyperfine,Utilities,https://github.com/sharkdp/hyperfine,yay,Command-line benchmarking tool with statistical analysis warmup runs and export to CSV JSON Markdown.,,2025-08-24
 imagemagick,Media,https://github.com/ImageMagick/ImageMagick,yay,Free open-source suite for editing and manipulating digital images supporting over 200 file formats.,,2025-08-11
@@ -104,16 +104,16 @@ neovim,Development,https://neovim.io/,pacman,Hyperextensible Vim-based text edit
 ngrok,Networking & Security,https://ngrok.com/,yay,Globally distributed reverse proxy providing secure tunnels to localhost for development and webhooks.,,2025-08-17
 night-theme-switcher,GNOME,https://nightthemeswitcher.romainvigier.fr/,gnome-extension,Automatically switch between light and dark GTK themes based on time of day or Night Light status.,,2025-12-18
 node,Development,https://nodejs.org/,mise,JavaScript runtime built on Chrome V8 engine for building fast scalable network applications.,,2025-12-08
-node-static,Development,https://github.com/cloudhead/node-static,npm,Simple RFC 2616 compliant file streaming module for Node with built-in caching support.,,2025-08-16
-npm-check,Development,https://github.com/dylang/npm-check,npm,Identifies outdated incorrect and unused dependencies in Node.js projects with interactive update.,,2025-08-11
+node-static,Development,https://github.com/cloudhead/node-static,mise:npm,Simple RFC 2616 compliant file streaming module for Node with built-in caching support.,installed via mise:npm as node-static,2025-08-16
+npm-check,Development,https://github.com/dylang/npm-check,mise:npm,Identifies outdated incorrect and unused dependencies in Node.js projects with interactive update.,installed via mise:npm as npm-check,2025-08-11
 obs-studio,Media,https://github.com/obsproject/obs-studio,yay,Free open source software for video recording and live streaming capturing and mixing across platforms.,,2025-08-11
 oha,Utilities,https://github.com/hatoo/oha,yay,HTTP load generator with real-time TUI animation written in Rust supporting HTTP/2 and HTTP/3.,,2025-12-08
 opencode,AI Tools,https://github.com/opencode-ai/opencode,yay,Powerful AI coding agent built for the terminal with support for multiple AI providers and code tool integration.,installed via yay as opencode-bin,2025-08-11
 ovhcloud-cli,Networking & Security,https://github.com/ovh/ovhcloud-cli,go,Official command line interface to manage OVHcloud services including domains and DNS zones.,installed via go install as ovhcloud,2026-09-05
 perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application for reading and writing meta information in files including camera maker notes.,,2025-08-12
-pi,Development,https://pi.dev/,npm,Minimal terminal coding harness that is extensible and optimized for tool use.,,2026-05-11
+pi,Development,https://pi.dev/,mise:npm,Minimal terminal coding harness that is extensible and optimized for tool use.,installed via mise:npm as @earendil-works/pi-coding-agent,2026-05-11
 piper-tts,Media,https://github.com/rhasspy/piper,yay,Fast local neural text to speech enabling offline speech synthesis without cloud services.,installed via yay as piper-tts-bin,2025-12-10
-playwright-cli,AI Tools,https://github.com/microsoft/playwright-cli,npm,CLI for common Playwright actions enabling recording generating code inspecting selectors and screenshots optimized for modern coding agents.,installed via npm as @playwright/cli,2026-02-08
+playwright-cli,AI Tools,https://github.com/microsoft/playwright-cli,mise:npm,CLI for common Playwright actions enabling recording generating code inspecting selectors and screenshots optimized for modern coding agents.,installed via mise:npm as @playwright/cli,2026-02-08
 polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Authorization framework providing API for privileged programs to verify unprivileged user requests.,required for 1password-cli,2025-08-11
 poppler,Text & Data Processing,https://poppler.freedesktop.org/,yay,PDF rendering library for converting and displaying PDF files with tools for manipulation.,,2025-08-11
 psleep,Shell & Terminal,https://github.com/Yesh-02/psleep,cargo,CLI sleep command with progress bar visualization in terminal supporting multiple styles and human-friendly time formats.,,2026-05-22
@@ -134,9 +134,9 @@ scrcpy,Development,https://github.com/Genymobile/scrcpy,yay,Mirror and control A
 shotcut,Media,https://www.shotcut.org/,yay,Free open-source cross-platform video editor supporting hundreds of audio and video formats with native timeline editing and 4K support.,,2026-05-23
 showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,,2025-08-12
 signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powerful secure messenger with state-of-the-art end-to-end encryption from independent nonprofit.,installed via yay as signal-desktop,2025-08-12
-skills,AI Tools,https://github.com/vercel-labs/skills,npm,CLI for the open agent skills ecosystem enabling discovery and installation of skill packages for Claude Code OpenCode Cursor and 50+ other coding agents.,,2026-06-02
+skills,AI Tools,https://github.com/vercel-labs/skills,mise:npm,CLI for the open agent skills ecosystem enabling discovery and installation of skill packages for Claude Code OpenCode Cursor and 50+ other coding agents.,installed via mise:npm as skills,2026-06-02
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
-slack-mcp-server,AI Tools,https://github.com/korotovsky/slack-mcp-server,npm,Model Context Protocol (MCP) server for Slack Workspaces enabling integration with Claude and other tools.,,2026-05-20
+slack-mcp-server,AI Tools,https://github.com/korotovsky/slack-mcp-server,mise:npm,Model Context Protocol (MCP) server for Slack Workspaces enabling integration with Claude and other tools.,installed via mise:npm as slack-mcp-server,2026-05-20
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
 socat,Networking & Security,http://www.dest-unreach.org/socat/,yay,Multipurpose relay tool establishing bidirectional byte streams between sockets pipes devices and files.,,2026-01-07
 sshfs,Networking & Security,https://github.com/libfuse/sshfs,yay,Network filesystem mounting remote filesystems using SFTP over SSH with no server-side configuration.,,2025-11-28
@@ -153,15 +153,15 @@ tiling-shell,GNOME,https://extensions.gnome.org/extension/7065/tiling-shell/,yay
 trash-cli,File Management,https://github.com/andreafrancia/trash-cli,yay,Command-line interface to FreeDesktop.org trash allowing safe file deletion with recovery option.,,2025-08-16
 tree-sitter-cli,Development,https://tree-sitter.github.io/tree-sitter/,pacman,CLI tool for developing testing and using Tree-sitter incremental parsers and grammars.,Required by Neovim nvim-treesitter for parser compilation,2026-07-31
 ttf-ubuntu-font-family,System & Core,https://design.ubuntu.com/font/,pacman,Ubuntu font family with regular light medium bold weights and monospace variants under Ubuntu Font Licence.,,2026-02-02
-typescript,Development,https://github.com/microsoft/TypeScript,npm,Programming language building on JavaScript with static type checking for safer code and better tooling.,Used in Claude Code LSP plugin,2026-02-13
-typescript-language-server,Development,https://github.com/typescript-language-server/typescript-language-server,npm,TypeScript-powered language server implementing Language Server Protocol for IDE integrations and editor support.,Used in Claude Code LSP plugin,2026-02-13
+typescript,Development,https://github.com/microsoft/TypeScript,mise:npm,Programming language building on JavaScript with static type checking for safer code and better tooling.,installed via mise:npm as typescript. Used in Claude Code LSP plugin,2026-02-13
+typescript-language-server,Development,https://github.com/typescript-language-server/typescript-language-server,mise:npm,TypeScript-powered language server implementing Language Server Protocol for IDE integrations and editor support.,installed via mise:npm as typescript-language-server. Used in Claude Code LSP plugin,2026-02-13
 ufw,Networking & Security,https://launchpad.net/ufw,yay,Uncomplicated Firewall frontend for iptables providing easy interface for managing host-based firewalls.,,2025-12-10
 unrar,File Management,https://www.rarlab.com/,yay,Archive manager for opening and unpacking RAR ZIP and other formats with backup capabilities.,,2025-11-21
 upscayl,Media,https://github.com/upscayl/upscayl,yay,Free open-source AI application enlarging and enhancing low-resolution images without quality loss.,installed via yay as upscayl-bin,2025-08-12
 usbutils,Utilities,https://github.com/gregkh/usbutils,yay,USB utilities for Linux including lsusb to query USB devices connected to the system.,,2025-08-11
 uv,Development,https://github.com/astral-sh/uv,yay,Extremely fast Python package installer and resolver written in Rust replacing pip and pip-tools.,,2025-08-11
 vim,Development,https://github.com/vim/vim,yay,Highly configurable text editor built to enable efficient text editing with modal interface.,,2025-08-11
-vite,Development,https://vite.dev/,npm,Next generation frontend tooling with blazing fast dev server native ES modules and Hot Module Replacement for modern web development.,,2026-02-28
+vite,Development,https://vite.dev/,mise:npm,Next generation frontend tooling with blazing fast dev server native ES modules and Hot Module Replacement for modern web development.,installed via mise:npm as vite,2026-02-28
 vlc,Media,https://github.com/videolan/vlc,yay,Free open source cross-platform multimedia player playing most files DVDs Audio CDs and streaming.,sudo pacman -S vlc $(pacman -Ssq vlc-plugin),2025-08-11
 vscode,Development,https://github.com/microsoft/vscode,yay,Free open-source code editor by Microsoft with AI-powered features and rich extension ecosystem.,installed via yay as code,2025-08-11
 wasm-pack,Development,https://github.com/rustwasm/wasm-pack,cargo,Tool for building and publishing Rust-generated WebAssembly packages to npm registry.,,2025-12-08
