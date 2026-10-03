@@ -99,6 +99,7 @@ nautilus,File Management,https://apps.gnome.org/Nautilus/,pacman,GNOME default f
 neovim,Development,https://neovim.io/,pacman,Hyperextensible Vim-based text editor with modern Lua scripting and built-in LSP support.,,2026-07-28
 ngrok,Networking & Security,https://ngrok.com/,yay,Globally distributed reverse proxy providing secure tunnels to localhost for development and webhooks.,,2025-08-17
 night-theme-switcher,GNOME,https://nightthemeswitcher.romainvigier.fr/,gnome-extension,Automatically switch between light and dark GTK themes based on time of day or Night Light status.,,2025-12-18
+nmap,Networking & Security,https://nmap.org/,pacman,Network discovery and security auditing utility with port scanning service detection and OS fingerprinting.,,2026-08-26
 node,Development,https://nodejs.org/,mise,JavaScript runtime built on Chrome V8 engine for building fast scalable network applications.,,2025-12-08
 node-static,Development,https://github.com/cloudhead/node-static,mise:npm,Simple RFC 2616 compliant file streaming module for Node with built-in caching support.,installed via mise:npm as node-static,2025-08-16
 npm-check,Development,https://github.com/dylang/npm-check,mise:npm,Identifies outdated incorrect and unused dependencies in Node.js projects with interactive update.,installed via mise:npm as npm-check,2025-08-11
