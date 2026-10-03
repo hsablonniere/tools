@@ -77,6 +77,7 @@ gup,Development,https://github.com/nao1215/gup,go,Fast manager for Go-installed 
 gzip,System & Core,https://www.gnu.org/software/gzip/,pacman,File compression utility using DEFLATE algorithm reducing file sizes by up to 70-80 percent.,pre-installed,2025-08-11
 happy-appy-hotkey,GNOME,https://extensions.gnome.org/extension/6057/happy-appy-hotkey/,gnome-extension,Assign hotkeys to applications to give them focus or launch them with workspace restriction and Wayland support.,,2026-08-04
 harlequin,Development,https://github.com/tconbeer/harlequin,uvx,The SQL IDE for your terminal - portable database client supporting DuckDB SQLite and other databases.,,2025-10-29
+herdr,Development,https://herdr.dev,mise,Rust terminal workspace manager and multiplexer for AI coding agents with per-pane state detection (blocked working done idle) and session persistence.,,2026-10-03
 htop,System & Core,https://github.com/htop-dev/htop,pacman,Cross-platform interactive process viewer monitoring CPU memory load averages with process management.,pre-installed,2025-08-11
 hubmon,Development,https://github.com/nicholaschum/hubmon,mise:npm,File system watcher running commands and auto-restarting on file changes using glob patterns.,installed via mise:npm as hubmon,2025-11-08
 hunk,Development,https://www.hunk.dev,mise:npm,Review-first terminal diff viewer for agentic coders letting you approve or reject diff hunks interactively.,installed via mise:npm as hunkdiff,2026-09-09
