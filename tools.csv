@@ -21,7 +21,6 @@ bubblewrap,Networking & Security,https://github.com/containers/bubblewrap,yay,Lo
 brscan4,Utilities,https://github.com/BrireLive/brscan4,yay,SANE backend driver for Brother multifunction scanners enabling scanning support.,,2026-05-29
 bun,Development,https://github.com/oven-sh/bun,pacman,Fast all-in-one JavaScript toolkit combining runtime package manager bundler and test runner.,,2025-08-11
 caddy,Development,https://github.com/caddyserver/caddy,mise,Web server that automatically obtains and renews TLS certificates making sites secure by default.,,2025-12-07
-cargo-watch,Development,https://github.com/watchexec/cargo-watch,pacman,Watches over Cargo project source and runs commands when files change for Rust development workflow.,,2025-11-07
 chromium,Web Browser,https://www.chromium.org/,yay,Open-source browser project building a safer faster and more stable web experience providing code for Chrome.,,2025-08-11
 clamav,Networking & Security,https://github.com/Cisco-Talos/clamav,yay,Open source antivirus engine for detecting trojans viruses and malware maintained by Cisco Talos.,,2025-12-10
 claude-code,AI Tools,https://github.com/anthropics/claude-code,mise,Agentic coding tool in your terminal that understands your codebase and helps you code faster via natural language.,"installed via mise as aqua:anthropics/claude-code, updated manually with mise up",2025-08-11
