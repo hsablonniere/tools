@@ -159,7 +159,6 @@ uv,Development,https://github.com/astral-sh/uv,yay,Extremely fast Python package
 vim,Development,https://github.com/vim/vim,yay,Highly configurable text editor built to enable efficient text editing with modal interface.,,2025-08-11
 vite,Development,https://vite.dev/,mise:npm,Next generation frontend tooling with blazing fast dev server native ES modules and Hot Module Replacement for modern web development.,installed via mise:npm as vite,2026-02-28
 vlc,Media,https://github.com/videolan/vlc,yay,Free open source cross-platform multimedia player playing most files DVDs Audio CDs and streaming.,sudo pacman -S vlc $(pacman -Ssq vlc-plugin),2025-08-11
-wasm-pack,Development,https://github.com/rustwasm/wasm-pack,pacman,Tool for building and publishing Rust-generated WebAssembly packages to npm registry.,,2025-12-08
 webstorm,Development,https://www.jetbrains.com/webstorm/,manual,JavaScript and TypeScript IDE by JetBrains with intelligent coding assistance and debugging tools.,installed from the JetBrains tarball in /opt,2025-11-26
 wget,System & Core,https://www.gnu.org/software/wget/,yay,Command-line utility for downloading files from the web supporting HTTP HTTPS FTP SFTP and many protocols.,,2025-08-11
 worker-build,Development,https://github.com/cloudflare/workers-rs,mise:cargo,Build tool for Cloudflare Workers written in Rust compiling to WebAssembly.,installed via mise:cargo as worker-build,2025-12-08
