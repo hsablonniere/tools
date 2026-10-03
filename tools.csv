@@ -107,7 +107,7 @@ opencode,AI Tools,https://github.com/anomalyco/opencode,pacman,Powerful AI codin
 ovhcloud-cli,Networking & Security,https://github.com/ovh/ovhcloud-cli,mise:github,Official command line interface to manage OVHcloud services including domains and DNS zones.,installed via mise:github as ovh/ovhcloud-cli,2026-09-05
 perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application for reading and writing meta information in files including camera maker notes.,,2025-08-12
 pi,Development,https://pi.dev/,mise:npm,Minimal terminal coding harness that is extensible and optimized for tool use.,installed via mise:npm as @earendil-works/pi-coding-agent,2026-05-11
-piper-tts,Media,https://github.com/rhasspy/piper,yay,Fast local neural text to speech enabling offline speech synthesis without cloud services.,installed via yay as piper-tts-bin,2025-12-10
+piper-tts,Media,https://github.com/OHF-Voice/piper1-gpl,mise:pipx,Fast local neural text to speech enabling offline speech synthesis without cloud services.,installed via mise:pipx as piper-tts. Successor of the archived rhasspy/piper,2025-12-10
 playwright-cli,AI Tools,https://github.com/microsoft/playwright-cli,mise:npm,CLI for common Playwright actions enabling recording generating code inspecting selectors and screenshots optimized for modern coding agents.,installed via mise:npm as @playwright/cli,2026-02-08
 polkit,Networking & Security,https://gitlab.freedesktop.org/polkit/polkit,yay,Authorization framework providing API for privileged programs to verify unprivileged user requests.,required for 1password-cli,2025-08-11
 poppler,Text & Data Processing,https://poppler.freedesktop.org/,yay,PDF rendering library for converting and displaying PDF files with tools for manipulation.,,2025-08-11
