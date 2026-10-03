@@ -86,9 +86,9 @@ hyperfine,Utilities,https://github.com/sharkdp/hyperfine,yay,Command-line benchm
 imagemagick,Media,https://github.com/ImageMagick/ImageMagick,yay,Free open-source suite for editing and manipulating digital images supporting over 200 file formats.,,2025-08-11
 immich-go,Media,https://github.com/simulot/immich-go,pacman,Unofficial CLI alternative to upload and manage photos on a self-hosted Immich server.,,2026-08-22
 inkscape,Media,https://gitlab.com/inkscape/inkscape,yay,Powerful free design tool for creating vector graphics for illustrators designers and web graphics.,gnu-free-fonts,2025-08-11
-jdk-openjdk,Development,https://openjdk.org/,yay,Open-source implementation of the Java Platform Standard Edition.,,2025-11-26
 jless,Text & Data Processing,https://github.com/PaulJuliusMartinez/jless,yay,Command-line JSON viewer for reading exploring and searching JSON data with syntax highlighting.,,2025-08-11
 jq,Text & Data Processing,https://github.com/jqlang/jq,yay,Lightweight command-line JSON processor that slices filters maps and transforms structured data.,,2025-08-11
+jre-openjdk,Development,https://openjdk.org/,yay,Open-source implementation of the Java Platform Standard Edition (runtime only no JDK).,,2025-11-26
 just,Development,https://github.com/casey/just,yay,Command runner in Rust with simple syntax for defining and running project-specific commands without make complexity.,,2025-12-18
 loupe,Media,https://apps.gnome.org/Loupe/,yay,GNOME image viewer with fast rendering GPU acceleration and gesture support for viewing photos.,,2025-08-11
 mediainfo,Media,https://github.com/MediaArea/MediaInfo,yay,Unified display of technical and tag data for video and audio files showing format and codec details.,,2025-11-10
