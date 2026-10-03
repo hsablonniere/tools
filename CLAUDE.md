@@ -30,10 +30,22 @@ Use conventional commit style with the tool name as scope (kebab-case):
 ```
 add(tool-name): fun one-liner
 remove(tool-name): fun one-liner
-update(tool-name): fun one-liner
+update(tool-name): factual description of the change
 ```
 
 ### Commit Message Style
+
+#### `update`: factual
+
+No joke. Say what changed: the old and new install method, and the mise backend when relevant.
+
+**Examples:**
+- `update(opencode): move from yay to pacman (extra)`
+- `update(stu): move from yay to mise (github:lusingander/stu)`
+- `update(harlequin): move from uvx to mise (pipx:harlequin)`
+- `update(jre-openjdk): rename from jdk-openjdk, only the runtime is installed`
+
+#### `add` and `remove`: fun
 
 The commit message should be a **fun one-liner** - NOT the tool description. Be creative:
 - A joke or witty remark
