@@ -134,6 +134,7 @@ signal,Communication,https://github.com/signalapp/Signal-Desktop,yay,Simple powe
 skills,AI Tools,https://github.com/vercel-labs/skills,mise:npm,CLI for the open agent skills ecosystem enabling discovery and installation of skill packages for Claude Code OpenCode Cursor and 50+ other coding agents.,installed via mise:npm as skills,2026-06-02
 simple-scan,Utilities,https://gitlab.gnome.org/GNOME/simple-scan,yay,GNOME application to scan documents and photos with support for flatbed scanners and document feeders.,,2025-08-11
 slack-mcp-server,AI Tools,https://github.com/korotovsky/slack-mcp-server,mise:npm,Model Context Protocol (MCP) server for Slack Workspaces enabling integration with Claude and other tools.,installed via mise:npm as slack-mcp-server,2026-05-20
+snapper,System & Core,http://snapper.io/,pacman,Tool for managing Btrfs and LVM snapshots with automatic timeline and cleanup timers.,,2026-09-17
 snapshot,Media,https://apps.gnome.org/Snapshot/,yay,GNOME camera application for taking pictures and videos with your webcam replacing cheese.,,2025-08-11
 socat,Networking & Security,http://www.dest-unreach.org/socat/,yay,Multipurpose relay tool establishing bidirectional byte streams between sockets pipes devices and files.,,2026-01-07
 sshfs,Networking & Security,https://github.com/libfuse/sshfs,yay,Network filesystem mounting remote filesystems using SFTP over SSH with no server-side configuration.,,2025-11-28
