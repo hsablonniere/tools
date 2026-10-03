@@ -136,7 +136,7 @@ socat,Networking & Security,http://www.dest-unreach.org/socat/,yay,Multipurpose 
 sshfs,Networking & Security,https://github.com/libfuse/sshfs,yay,Network filesystem mounting remote filesystems using SFTP over SSH with no server-side configuration.,,2025-11-28
 starship,Shell & Terminal,https://github.com/starship/starship,yay,Minimal blazing-fast cross-shell prompt in Rust displaying relevant context information intelligently.,,2025-08-11
 stow,File Management,https://www.gnu.org/software/stow/,yay,Symlink farm manager making separate packages appear installed in same place useful for dotfiles.,,2025-08-14
-stu,Utilities,https://github.com/lusingander/stu,yay,TUI application for AWS S3 to browse and manage S3 buckets and objects from the terminal.,,2025-08-31
+stu,Utilities,https://github.com/lusingander/stu,mise:github,TUI application for AWS S3 to browse and manage S3 buckets and objects from the terminal.,installed via mise:github as lusingander/stu,2025-08-31
 surge-xt,Media,https://surge-synthesizer.github.io/,yay,Open-source wavetable subtractive synthesizer with FM synthesis polyphonic modulation and full MPE support.,,2026-06-06
 subversion,Development,https://subversion.apache.org/,yay,Centralized version control system for tracking changes in files and directories over time.,,2025-11-19
 sweethome3d,Media,http://www.sweethome3d.com/,pacman,Free open-source interior design application for drawing floor plans arranging furniture and creating 3D visualizations with 10000+ furniture models.,,2026-06-09
