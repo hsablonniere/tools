@@ -127,7 +127,6 @@ rsync,File Sync & Download,https://rsync.samba.org/,yay,Remote synchronization u
 rtk,AI Tools,https://github.com/rtk-ai/rtk,yay,CLI proxy that reduces LLM token consumption by 60-90% on common development commands.,"moved from cargo to AUR. Never run cargo install rtk: the crates.io rtk crate is an unrelated project that overwrites the binary and breaks the Claude Code Bash hook",2026-05-05
 rustup,Development,https://github.com/rust-lang/rustup,yay,Official Rust toolchain installer managing versions enabling switching between stable beta and nightly.,,2025-12-05
 s3cmd,File Sync & Download,https://github.com/s3tools/s3cmd,yay,Free command-line S3 client for Amazon S3 and compatible storage with 60+ options including encryption.,,2025-08-27
-sane-backends,Utilities,https://gitlab.com/sane-project/backends,yay,Scanner Access Now Easy backends providing drivers for various scanner hardware.,,2026-05-29
 scrcpy,Development,https://github.com/Genymobile/scrcpy,yay,Mirror and control Android devices from your computer via USB or TCP/IP with keyboard and mouse support.,,2026-02-24
 shotcut,Media,https://www.shotcut.org/,yay,Free open-source cross-platform video editor supporting hundreds of audio and video formats with native timeline editing and 4K support.,,2026-05-23
 showmethekey,Utilities,https://github.com/AlynxZhou/showmethekey,yay,Shows keys you typed on screen working on X11 and Wayland by reading key events via libinput.,,2025-08-12
