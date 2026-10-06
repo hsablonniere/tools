@@ -1,6 +1,6 @@
 name,category,official_link,install_method,description,comment,install_date
 1password,Networking & Security,https://1password.com/,yay,Password manager with end-to-end encryption and cross-platform support for password generation and passkey support.,,2025-08-11
-1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,mise,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,,2025-08-11
+1password-cli,Networking & Security,https://developer.1password.com/docs/cli/,manual,Command-line tool for 1Password to eliminate plaintext secrets in code and automate tasks with biometric auth.,installed manually because the AUR package is not officially maintained by 1Password (unlike the GUI one),2025-08-11
 7zip,File Management,https://7-zip.org/,yay,File archiver with high compression ratio supporting numerous formats with AES-256 encryption.,,2025-08-12
 @clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,mise:npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,installed via mise:npm as @clevercloud/random-labels,2025-08-11
 android-udev,Development,https://github.com/M0Rf30/android-udev-rules,pacman,Udev rules for Android devices enabling ADB to recognize connected Android phones and tablets.,,2026-02-24
