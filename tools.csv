@@ -4,7 +4,6 @@ name,category,official_link,install_method,description,comment,install_date
 7zip,File Management,https://7-zip.org/,yay,File archiver with high compression ratio supporting numerous formats with AES-256 encryption.,,2025-08-12
 @clevercloud/random-labels,Development,https://github.com/CleverCloud/random-labels,mise:npm,Tool that randomizes and displays labels in a suspenseful sequential manner with clipboard support.,installed via mise:npm as @clevercloud/random-labels,2025-08-11
 android-udev,Development,https://github.com/M0Rf30/android-udev-rules,pacman,Udev rules for Android devices enabling ADB to recognize connected Android phones and tablets.,,2026-02-24
-asciinema,Development,https://github.com/asciinema/asciinema,pacman,Terminal session recorder capturing CLI sessions in lightweight text-based format with web playback.,,2026-10-12
 ast-grep,Development,https://github.com/ast-grep/ast-grep,not installed,CLI tool for code structural search and rewriting using fast AST-based pattern matching with tree-sitter.,,2026-01-26
 at,Utilities,https://github.com/wking/at,yay,Command-line utility for scheduling one-time tasks to run at a specific time using atd daemon.,,2026-01-16
 atuin,Shell & Terminal,https://github.com/atuinsh/atuin,yay,Magical shell history replacing default with SQLite database recording exit codes and duration with optional sync.,,2025-08-12
