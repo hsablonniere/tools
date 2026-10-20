@@ -107,6 +107,7 @@ obs-studio,Media,https://github.com/obsproject/obs-studio,yay,Free open source s
 oha,Utilities,https://github.com/hatoo/oha,yay,HTTP load generator with real-time TUI animation written in Rust supporting HTTP/2 and HTTP/3.,,2025-12-08
 opencode,AI Tools,https://github.com/anomalyco/opencode,pacman,Powerful AI coding agent built for the terminal with support for multiple AI providers and code tool integration.,,2025-08-11
 ovhcloud-cli,Networking & Security,https://github.com/ovh/ovhcloud-cli,mise:github,Official command line interface to manage OVHcloud services including domains and DNS zones.,installed via mise:github as ovh/ovhcloud-cli,2026-09-05
+pacman-contrib,System & Core,https://gitlab.archlinux.org/pacman/pacman-contrib,pacman,"Contributed scripts and tools for pacman systems, including paccache and its weekly cleanup timer.",paccache.timer enabled (keeps the last 3 versions),2026-10-20
 perl-image-exiftool,Utilities,https://exiftool.org/,yay,Command-line application for reading and writing meta information in files including camera maker notes.,,2025-08-12
 pi,Development,https://pi.dev/,mise:npm,Minimal terminal coding harness that is extensible and optimized for tool use.,installed via mise:npm as @earendil-works/pi-coding-agent,2026-05-11
 piper-tts,Media,https://github.com/OHF-Voice/piper1-gpl,mise:pipx,Fast local neural text to speech enabling offline speech synthesis without cloud services.,installed via mise:pipx as piper-tts. Successor of the archived rhasspy/piper,2025-12-10
