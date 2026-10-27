@@ -161,6 +161,7 @@ unrar,File Management,https://www.rarlab.com/,yay,Archive manager for opening an
 upscayl,Media,https://github.com/upscayl/upscayl,yay,Free open-source AI application enlarging and enhancing low-resolution images without quality loss.,installed via yay as upscayl-bin,2025-08-12
 usbutils,Utilities,https://github.com/gregkh/usbutils,yay,USB utilities for Linux including lsusb to query USB devices connected to the system.,,2025-08-11
 uv,Development,https://github.com/astral-sh/uv,yay,Extremely fast Python package installer and resolver written in Rust replacing pip and pip-tools.,,2025-08-11
+vesktop,Communication,https://github.com/Vencord/Vesktop,yay,Discord client with Vencord built in and better Linux support (Wayland screen sharing with audio).,installed via yay as vesktop-bin,2026-10-27
 vim,Development,https://github.com/vim/vim,yay,Highly configurable text editor built to enable efficient text editing with modal interface.,,2025-08-11
 vite,Development,https://vite.dev/,mise:npm,Next generation frontend tooling with blazing fast dev server native ES modules and Hot Module Replacement for modern web development.,installed via mise:npm as vite,2026-02-28
 vlc,Media,https://github.com/videolan/vlc,yay,Free open source cross-platform multimedia player playing most files DVDs Audio CDs and streaming.,sudo pacman -S vlc $(pacman -Ssq vlc-plugin),2025-08-11
