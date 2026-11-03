@@ -43,6 +43,7 @@ dotool,Utilities,https://git.sr.ht/~geb/dotool,yay,Command to simulate keyboard 
 duf,Utilities,https://github.com/muesli/duf,yay,Disk Usage/Free Utility providing colorful alternative to df with sorting filtering and JSON output.,,2025-08-16
 emoj,Utilities,https://github.com/sindresorhus/emoj,mise:npm,Find relevant emoji from text on command-line using local database without internet connection.,installed via mise:npm as emoj,2025-08-11
 epiphany,System & Core,https://apps.gnome.org/Epiphany/,pacman,Simple clean GNOME browser with integrated privacy protections including ad blocker and tracking prevention.,pre-installed,2025-08-11
+ergol,System & Core,https://ergol.org,pacman,Ergonomic French keyboard layout optimized for French and English with a symbol layer and dead keys.,"installed via pacman as xkeyboard-config (variant fr(ergol)), enabled as GNOME input source fr+ergol",2026-11-03
 evince,Utilities,https://apps.gnome.org/Evince/,yay,GNOME document viewer for PDF PostScript and other document formats with search and annotations.,,2025-08-11
 extension-manager,Utilities,https://github.com/mjakeman/extension-manager,yay,Utility for browsing and installing GNOME Shell Extensions directly from extensions.gnome.org.,,2025-08-11
 eza,File Management,https://github.com/eza-community/eza,yay,Modern ls replacement with colors symlinks Git status and extended attributes in lightweight single binary.,,2025-08-12
