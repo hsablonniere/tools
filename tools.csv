@@ -77,6 +77,7 @@ happy-appy-hotkey,GNOME,https://extensions.gnome.org/extension/6057/happy-appy-h
 handy,Utilities,https://github.com/cjpais/Handy,yay,Free open-source and extensible speech-to-text application that works completely offline.,installed via yay as handy-bin,2025-12-12
 harlequin,Development,https://github.com/tconbeer/harlequin,mise:pipx,The SQL IDE for your terminal - portable database client supporting DuckDB SQLite and other databases.,installed via mise:pipx as harlequin,2025-10-29
 herdr,Development,https://herdr.dev,mise,Rust terminal workspace manager and multiplexer for AI coding agents with per-pane state detection (blocked working done idle) and session persistence.,,2026-10-03
+hex,Utilities,https://anoma.ly/hex/,yay,Local voice dictation app by Anomaly: hold a shortcut and speak and it pastes the transcript into the focused application.,installed via yay as hex-bin,2026-11-04
 htop,System & Core,https://github.com/htop-dev/htop,pacman,Cross-platform interactive process viewer monitoring CPU memory load averages with process management.,pre-installed,2025-08-11
 hubmon,Development,https://github.com/nicholaschum/hubmon,mise:npm,File system watcher running commands and auto-restarting on file changes using glob patterns.,installed via mise:npm as hubmon,2025-11-08
 hunk,Development,https://www.hunk.dev,mise:npm,Review-first terminal diff viewer for agentic coders letting you approve or reject diff hunks interactively.,installed via mise:npm as hunkdiff,2026-09-09
